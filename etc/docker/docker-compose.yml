@@ -18,7 +18,7 @@ services:
   wordpress:
     depends_on:
       - db
-    image: wordpress:latest
+    image: lktslionel/abw-wedding-website:1.0.0
     ports:
       - "80:80"
     restart: always
