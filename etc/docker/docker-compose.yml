@@ -1,41 +1,41 @@
 version: '3.3'
 
+volumes:
+  db_data:
+  wordpress_data:
+
 services:
   db:
-    image: mysql:5.7
+    image: bitnami/mariadb:latest
+    environment:
+      - MARIADB_USER=wordpress-user
+      - MARIADB_DATABASE=wordpress-pass
+      - ALLOW_EMPTY_PASSWORD=yes
     volumes:
       - db_data:/var/lib/mysql
-    #restart: always
-    environment:
-      MYSQL_ROOT_PASSWORD: mypass
-      MYSQL_DATABASE: wordpress
-      MYSQL_USER: wordpress
-      MYSQL_PASSWORD: wordpress
     networks:
       - net
-
 
   wordpress:
-    depends_on:
-      - db
-    image: lktslionel/abw-wedding-website:1.0.0
+    build:
+      context: ../..
+      dockerfile: etc/docker/Dockerfile
     ports:
-      - "80:80"
+      - 80:80
+      - 443:443
     restart: always
     environment:
-      WORDPRESS_DB_HOST: db:3306
-      WORDPRESS_DB_USER: wordpress
-      WORDPRESS_DB_PASSWORD: wordpress
+      - MARIADB_HOST=mariadb
+      - MARIADB_PORT_NUMBER=3306
+      - WORDPRESS_DATABASE_USER=bn_wordpress
+      - WORDPRESS_DATABASE_NAME=bitnami_wordpress
+      - ALLOW_EMPTY_PASSWORD=yes
     volumes:
-      - ../../src/wp-content/themes:/var/www/html/wp-content/themes
-      - ../../src/wp-content/plugins:/var/www/html/wp-content/plugins
+      - wordpress_data:/bitnami
     networks:
       - net
-
+    depends_on:
+      - db
 
 networks:
   net: 
-
-
-volumes:
-  db_data:
