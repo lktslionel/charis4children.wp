@@ -48,7 +48,7 @@ services:
       - "WORDPRESS_EMAIL=contact.ab.wedding@gmail.com"
     volumes:
       - ../../src:/bitnami:cached
-      - ../../tmp/backups:/backups:cached
+      - ../../.tmp/backups:/backups:cached
     networks:
       - net
     depends_on:
