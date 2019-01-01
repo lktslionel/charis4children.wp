@@ -1,0 +1,28 @@
+<wpml-config>
+    <admin-texts>
+		<key name="catanis_options">
+            <key name="404page_large_title" />
+            <key name="404page_small_title" />
+            <key name="comingsoon_large_title" />
+            <key name="comingsoon_small_title" />
+            <key name="footer_copyright" />
+            <key name="store_notice" />
+            <key name="woo_feature_label_text" />
+            <key name="woo_out_of_stock_label_text" />
+            <key name="woo_sale_label_text" />
+            <key name="prodetail_custom_tabs_title" />
+            <key name="prodetail_custom_tabs_content" />
+        </key>   
+    </admin-texts>   
+	<custom-types>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">team</custom-type>
+		<custom-type translate="1">testimonials</custom-type>
+		<custom-type translate="1">product</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio_category</taxonomy>
+		<taxonomy translate="1">portfolio_tags</taxonomy>
+		<taxonomy translate="1">product_cat</taxonomy>
+	</taxonomies>
+</wpml-config>

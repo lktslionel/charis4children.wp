@@ -2,36 +2,53 @@ version: '3.3'
 
 volumes:
   db_data:
-  wordpress_data:
+#  wordpress_data:
+#  wordpress_themes:
+#  wordpress_plugins:
 
 services:
+
+  # - 
+
   db:
     image: bitnami/mariadb:latest
     environment:
-      - MARIADB_USER=wordpress-user
-      - MARIADB_DATABASE=wordpress-pass
-      - ALLOW_EMPTY_PASSWORD=yes
+      - "ALLOW_EMPTY_PASSWORD=yes"
+      - "MARIADB_DATABASE=wordpress"
+      - "MARIADB_USER=wordpress_user"
+      - "MARIADB_PASSWORD=wordpress_pass"
+    ports:
+      - 53306:3306
     volumes:
-      - db_data:/var/lib/mysql
+      - db_data:/bitnami/mariadb/data/
     networks:
       - net
+
+  # - 
 
   wordpress:
     build:
       context: ../..
       dockerfile: etc/docker/Dockerfile
     ports:
-      - 80:80
-      - 443:443
-    restart: always
+      - 50080:80
+      - 50443:443
     environment:
-      - MARIADB_HOST=mariadb
-      - MARIADB_PORT_NUMBER=3306
-      - WORDPRESS_DATABASE_USER=bn_wordpress
-      - WORDPRESS_DATABASE_NAME=bitnami_wordpress
-      - ALLOW_EMPTY_PASSWORD=yes
+      - "ALLOW_EMPTY_PASSWORD=yes"
+      - "MARIADB_HOST=db"
+      - "MARIADB_PORT_NUMBER=3306"
+      - "WORDPRESS_DATABASE_NAME=wordpress"
+      - "WORDPRESS_DATABASE_USER=wordpress_user"
+      - "WORDPRESS_DATABASE_PASSWORD=wordpress_pass"
+      - "WORDPRESS_BLOG_NAME=abw-site"
+      - "WORDPRESS_FIRST_NAME="
+      - "WORDPRESS_LAST_NAME="
+      - "WORDPRESS_USERNAME=abw-user"
+      - "WORDPRESS_PASSWORD=pass"
+      - "WORDPRESS_EMAIL=contact.ab.wedding@gmail.com"
     volumes:
-      - wordpress_data:/bitnami
+      - ../../src:/bitnami:cached
+      - ../../tmp/backups:/backups:cached
     networks:
       - net
     depends_on:
