@@ -1,0 +1,3 @@
+
+---Downloaded files---
+An error occurred while fetching file from: <strong>http://localhost:50080/wp-content/plugins/catanis-core/includes/data/sample_data.xml</strong>!<br>Reason: http_request_failed - cURL error 7: Failed to connect to localhost port 50080: Connection refused.<br>

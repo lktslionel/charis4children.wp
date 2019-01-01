@@ -1,0 +1,90 @@
+
+---Downloaded files---
+The import files for: Home Main were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://192.168.1.11:50080
+Data file = /opt/bitnami/wordpress/wp-content/uploads/2019/01/demo-content-import-file_2019-01-01__16-56-58.xml
+Widget file = /opt/bitnami/wordpress/wp-content/uploads/2019/01/demo-widgets-import-file_2019-01-01__16-56-58.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Imported
+Categories - CATEGORIES - Imported
+CATANIS - Social Profiles - FOLLOW US - Imported
+CATANIS - Recent Posts - Latest Posts - Imported
+Recent Posts - POPULAR POSTS - Imported
+Archives - ARCHIVES - Imported
+CATANIS - Advertisement - No Title - Imported
+CATANIS - Testimonials - Testimonial - Imported
+CATANIS - Instagram - Instagram - Imported
+CATANIS - Tag Cloud - Tag Cloud - Imported
+CATANIS - Feedburner Subscriptions - Newsletter - Imported
+
+Shop Sidebar : 
+
+Product Search - No Title - Imported
+Product Categories - Product Categories - Imported
+Filter Products by Price - Filter by price - Imported
+CATANIS - Products - Products Slider - Imported
+CATANIS - Advertisement - No Title - Imported
+
+Footer Column One : 
+
+CATANIS - AboutUs Info - About Us - Imported
+
+Footer Column Two : 
+
+Text - INFORMATION - Imported
+
+Footer Column Three : 
+
+Navigation Menu - SITEMAP - Imported
+
+Footer Column Four : 
+
+CATANIS - Feedburner Subscriptions - Newsletter - Imported
+
+
+
+---pt-ocdi/after_import---
+Theme Options Import SuccessfulTheme Options Import Successful
