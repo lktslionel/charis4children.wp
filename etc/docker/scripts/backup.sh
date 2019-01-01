@@ -13,9 +13,6 @@ function Check_errors() {
 }
 
 
-
-__USER=bitnami
-__GROUP=daemon
 __BACKUP_ARCHIVE_FILENAME="abw.db.$(date +"%Y%m%d").sql.tgz"
 __BACKUPS_DIR="/backups"
 
@@ -34,6 +31,6 @@ log "Removing all sql files"
 rm -rvf ./*.sql
 
 log "Moving archive to backups dir"
-mv $__BACKUP_ARCHIVE_FILENAME $__BACKUPS_DIR
+mv -v $__BACKUP_ARCHIVE_FILENAME $__BACKUPS_DIR
 
 log "Backup completed!"
