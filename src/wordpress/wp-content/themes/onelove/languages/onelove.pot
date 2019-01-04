@@ -1,0 +1,4204 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: OneLove\n"
+"POT-Creation-Date: 2018-11-27 10:52+0700\n"
+"PO-Revision-Date: 2018-11-27 10:51+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: __/class-default-data.php:114 framework/functions/class-default-data.php:114
+msgid "All Categories"
+msgstr ""
+
+#: __/class-default-data.php:209 framework/functions/class-default-data.php:209
+msgid "Revolution slider"
+msgstr ""
+
+#: __/class-default-data.php:235 framework/functions/class-default-data.php:235
+msgid "Layer Slider"
+msgstr ""
+
+#: __/class-default-data.php:527 framework/functions/class-default-data.php:527
+#: framework/functions/meta/page.php:55 framework/functions/meta/page.php:91
+#: framework/functions/meta/portfolio.php:55
+#: framework/functions/meta/portfolio.php:84
+#: framework/functions/meta/post.php:55 framework/functions/meta/post.php:84
+#: framework/functions/meta/product.php:54
+#: framework/functions/meta/product.php:83 framework/functions/sidebars.php:93
+#: framework/includes/class-catanis-custom-fields-category.php:78
+#: framework/includes/class-catanis-custom-fields-category.php:132
+#: framework/includes/class-catanis-custom-fields-category.php:172
+#: framework/includes/class-catanis-custom-woo-term.php:82
+#: framework/includes/class-catanis-custom-woo-term.php:136
+#: framework/includes/class-catanis-custom-woo-term.php:176
+msgid "Default"
+msgstr ""
+
+#: __/theme-functions.php:231 framework/functions/theme-functions.php:231
+msgid "0 View"
+msgstr ""
+
+#: __/theme-functions.php:233 framework/functions/theme-functions.php:233
+msgid "Views"
+msgstr ""
+
+#: __/theme-functions.php:788 framework/functions/theme-functions.php:788
+msgid "Newer Posts"
+msgstr ""
+
+#: __/theme-functions.php:791 framework/functions/theme-functions.php:791
+msgid "Older Posts"
+msgstr ""
+
+#: __/theme-functions.php:891 framework/functions/theme-functions.php:891
+msgid "Sticky"
+msgstr ""
+
+#: __/theme-functions.php:900 framework/functions/theme-functions.php:900
+msgid "By"
+msgstr ""
+
+#: __/theme-functions.php:909 framework/functions/theme-functions.php:909
+msgid "In"
+msgstr ""
+
+#: __/theme-functions.php:916 framework/functions/theme-functions.php:916
+msgid "% Comments"
+msgstr ""
+
+#: __/theme-functions.php:941 __/theme-functions.php:949
+#: framework/functions/theme-functions.php:941
+#: framework/functions/theme-functions.php:949
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: __/theme-functions.php:944 framework/functions/theme-functions.php:944
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: __/theme-functions.php:952 framework/functions/theme-functions.php:952
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: __/theme-functions.php:1121 __/theme-functions.php:1131
+#: framework/functions/theme-functions.php:1121
+#: framework/functions/theme-functions.php:1131
+#: includes/post-templates/content-search.php:24
+msgid "Read More"
+msgstr ""
+
+#: __/theme-functions.php:1151 framework/functions/theme-functions.php:1151
+msgid "TAGS"
+msgstr ""
+
+#: __/theme-functions.php:1159 framework/functions/theme-functions.php:1159
+msgid "CATEGORIES"
+msgstr ""
+
+#: __/theme-functions.php:1216 framework/functions/theme-functions.php:1216
+msgid "Facebook"
+msgstr ""
+
+#: __/theme-functions.php:1224 framework/functions/theme-functions.php:1224
+msgid "Twitter"
+msgstr ""
+
+#: __/theme-functions.php:1232 framework/functions/theme-functions.php:1232
+msgid "Google+"
+msgstr ""
+
+#: __/theme-functions.php:1242 framework/functions/theme-functions.php:1242
+msgid "Pinterest"
+msgstr ""
+
+#: __/theme-functions.php:1250 framework/functions/theme-functions.php:1250
+msgid "Linkedin"
+msgstr ""
+
+#: __/theme-functions.php:1258 framework/functions/meta/team.php:27
+#: framework/functions/theme-functions.php:1258
+msgid "Email"
+msgstr ""
+
+#: __/theme-functions.php:1266 framework/functions/theme-functions.php:1266
+msgid "Digg"
+msgstr ""
+
+#: __/theme-functions.php:1273 framework/functions/theme-functions.php:1273
+msgid "VK"
+msgstr ""
+
+#: __/theme-functions.php:1281 framework/functions/theme-functions.php:1281
+msgid "StumbleUpon"
+msgstr ""
+
+#: __/theme-functions.php:1289 framework/functions/theme-functions.php:1289
+msgid "Delicious"
+msgstr ""
+
+#: __/theme-functions.php:1539 framework/functions/theme-functions.php:1539
+msgid "No user ID specified."
+msgstr ""
+
+#: __/theme-functions.php:1551 framework/functions/theme-functions.php:1551
+msgid "Incorrect user ID specified."
+msgstr ""
+
+#: __/theme-functions.php:1578 framework/functions/theme-functions.php:1578
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: __/theme-functions.php:2592 __/theme-functions.php:2596
+#: __/theme-functions.php:3801 framework/functions/theme-functions.php:2597
+#: framework/functions/theme-functions.php:2601
+#: framework/functions/theme-functions.php:3806
+#: framework/includes/class-catanis-breadcrumbs.php:53
+msgid "Home"
+msgstr ""
+
+#: __/theme-functions.php:2770 __/theme-functions.php:2886
+#: framework/functions/theme-functions.php:2775
+#: framework/functions/theme-functions.php:2891
+msgid "Shop"
+msgstr ""
+
+#: __/theme-functions.php:2796 framework/functions/theme-functions.php:2801
+#, php-format
+msgid "Slider with ID(%d) not found"
+msgstr ""
+
+#: __/theme-functions.php:2797 framework/functions/theme-functions.php:2802
+msgid "Please go to CATANIS PAGE SETTING and change setting Page Title again!"
+msgstr ""
+
+#: __/theme-functions.php:2849 framework/functions/theme-functions.php:2854
+msgid "Blog"
+msgstr ""
+
+#: __/theme-functions.php:2858 framework/functions/theme-functions.php:2863
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: __/theme-functions.php:2874 framework/functions/theme-functions.php:2879
+msgid "Nothing Found"
+msgstr ""
+
+#: __/theme-functions.php:2880 framework/functions/theme-functions.php:2885
+msgid "Archive"
+msgstr ""
+
+#: __/theme-functions.php:2963 framework/functions/theme-functions.php:2968
+msgid "No menu assigned!"
+msgstr ""
+
+#: __/theme-functions.php:2993 framework/functions/theme-functions.php:2998
+msgid "My Account"
+msgstr ""
+
+#: __/theme-functions.php:2993 framework/functions/theme-functions.php:2998
+msgid "Login / Register"
+msgstr ""
+
+#: __/theme-functions.php:3534 framework/functions/meta/portfolio.php:694
+#: framework/functions/theme-functions.php:3539
+msgid "Client"
+msgstr ""
+
+#: __/theme-functions.php:3542 framework/functions/theme-functions.php:3547
+msgid "Date"
+msgstr ""
+
+#: __/theme-functions.php:3550 framework/functions/theme-functions.php:3555
+msgid "Tags"
+msgstr ""
+
+#: __/theme-functions.php:3556 framework/functions/theme-functions.php:3561
+msgid "Share"
+msgstr ""
+
+#: __/theme-functions.php:3679 framework/functions/theme-functions.php:3684
+msgid "Prev Post"
+msgstr ""
+
+#: __/theme-functions.php:3693 framework/functions/theme-functions.php:3698
+msgid "Next Post"
+msgstr ""
+
+#: __/theme-functions.php:3865 framework/functions/theme-functions.php:3871
+msgid "The class TwitterOAuth does not exist."
+msgstr ""
+
+#: __/theme-functions.php:3925 framework/functions/theme-functions.php:3931
+msgid "You need setting twitter keys in Theme Options"
+msgstr ""
+
+#: comments.php:18
+#, php-format
+msgctxt "Comment title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:27
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:46
+msgid "Your Name *"
+msgstr ""
+
+#: comments.php:48
+msgid "Email Address *"
+msgstr ""
+
+#: comments.php:51
+msgid "Website"
+msgstr ""
+
+#: comments.php:54
+msgid "Comment goes here...*"
+msgstr ""
+
+#: comments.php:59
+msgid "Submit Now"
+msgstr ""
+
+#: framework/functions/class-helper-field.php:812
+msgid "You can drag and drop the marker to the correct location"
+msgstr ""
+
+#: framework/functions/class-helper-field.php:900
+msgid ""
+"Input your theme configuration here. The configuration settings will restore "
+"your sites options from a backup, overwrite your current configuration and "
+"you can not restore the current configuration afterwards."
+msgstr ""
+
+#: framework/functions/class-helper-field.php:905
+msgid "Import Options"
+msgstr ""
+
+#: framework/functions/class-helper-field.php:937
+msgid ""
+"Click the button to generate and download a config file which contains the "
+"theme current option settings. Keep this safe as you can use it as a backup "
+"should anything go wrong. You can use the config file to import the theme "
+"settings on another sever. Or you can use it to restore your settings on "
+"this site (or any other site)."
+msgstr ""
+
+#: framework/functions/class-helper-field.php:942
+msgid "Export to file"
+msgstr ""
+
+#: framework/functions/mega-menu.php:166
+msgid "Enable top mega menu"
+msgstr ""
+
+#: framework/functions/mega-menu.php:171
+msgid "Check top menu item that you want to use mega menu"
+msgstr ""
+
+#: framework/functions/mega-menu.php:177
+msgid "No menu items added into \"Catanis Main Menu\"."
+msgstr ""
+
+#: framework/functions/mega-menu.php:178
+msgid "Guide"
+msgstr ""
+
+#: framework/functions/mega-menu.php:178
+msgid ""
+"You go to Appearance -> Menus section, create a custom menu and \n"
+"\t\t\t\t\t\t\t\tassign the menu as the Catanis Main Menu."
+msgstr ""
+
+#: framework/functions/meta/page.php:29
+#: framework/functions/meta/portfolio.php:29
+#: framework/functions/meta/post.php:29 framework/functions/meta/product.php:28
+msgid "Page Layout"
+msgstr ""
+
+#: framework/functions/meta/page.php:34
+#: framework/functions/meta/portfolio.php:34
+#: framework/functions/meta/post.php:34 framework/functions/meta/product.php:33
+msgid "Choose a layout for this page."
+msgstr ""
+
+#: framework/functions/meta/page.php:37
+#: framework/functions/meta/portfolio.php:37
+#: framework/functions/meta/post.php:37 framework/functions/meta/product.php:36
+msgid "Page Sidebar"
+msgstr ""
+
+#: framework/functions/meta/page.php:41
+#: framework/functions/meta/portfolio.php:41
+#: framework/functions/meta/post.php:41 framework/functions/meta/product.php:40
+msgid "Choose a sidebar you want, depend on Page Layout above."
+msgstr ""
+
+#: framework/functions/meta/page.php:44
+#: framework/functions/meta/portfolio.php:44
+#: framework/functions/meta/post.php:44 framework/functions/meta/product.php:43
+msgid "Custom Options For Page"
+msgstr ""
+
+#: framework/functions/meta/page.php:49
+#: framework/functions/meta/portfolio.php:49
+#: framework/functions/meta/post.php:49 framework/functions/meta/product.php:48
+msgid "Header Style"
+msgstr ""
+
+#: framework/functions/meta/page.php:56
+#: framework/functions/meta/portfolio.php:56
+#: framework/functions/meta/post.php:56 framework/functions/meta/product.php:55
+msgid "Style V1"
+msgstr ""
+
+#: framework/functions/meta/page.php:57
+#: framework/functions/meta/portfolio.php:57
+#: framework/functions/meta/post.php:57 framework/functions/meta/product.php:56
+msgid "Style V2"
+msgstr ""
+
+#: framework/functions/meta/page.php:58
+#: framework/functions/meta/portfolio.php:58
+#: framework/functions/meta/post.php:58 framework/functions/meta/product.php:57
+msgid "Style V3"
+msgstr ""
+
+#: framework/functions/meta/page.php:59
+#: framework/functions/meta/portfolio.php:59
+#: framework/functions/meta/post.php:59 framework/functions/meta/product.php:58
+msgid "Style V4"
+msgstr ""
+
+#: framework/functions/meta/page.php:60
+#: framework/functions/meta/portfolio.php:60
+#: framework/functions/meta/post.php:60 framework/functions/meta/product.php:59
+msgid "Style V5"
+msgstr ""
+
+#: framework/functions/meta/page.php:62
+#: framework/functions/meta/portfolio.php:62
+#: framework/functions/meta/post.php:62 framework/functions/meta/product.php:61
+msgid ""
+"Choose a header style for this page.<span>Inherit: Theme Options > Header & "
+"Footer Settings > Header.</span>"
+msgstr ""
+
+#: framework/functions/meta/page.php:65
+#: framework/functions/meta/portfolio.php:65
+#: framework/functions/meta/post.php:65 framework/functions/meta/product.php:64
+msgid "Header Background"
+msgstr ""
+
+#: framework/functions/meta/page.php:69
+#: framework/functions/meta/portfolio.php:69
+#: framework/functions/meta/post.php:69 framework/functions/meta/product.php:68
+#: framework/functions/options/header-footer.php:70
+msgid ""
+"Choose image background for header. The image should be between 1920px x "
+"300px for best results.<span>Only apply for header Style V4.</span>"
+msgstr ""
+
+#: framework/functions/meta/page.php:72
+#: framework/functions/options/header-footer.php:44
+msgid "Header Fullwidth"
+msgstr ""
+
+#: framework/functions/meta/page.php:76
+#: framework/functions/options/header-footer.php:48
+msgid "Use header full with or in section box 1170px."
+msgstr ""
+
+#: framework/functions/meta/page.php:79
+#: framework/functions/meta/portfolio.php:72
+#: framework/functions/meta/post.php:72 framework/functions/meta/product.php:71
+#: framework/functions/options/header-footer.php:73
+msgid "Show store notice"
+msgstr ""
+
+#: framework/functions/meta/page.php:83
+#: framework/functions/meta/portfolio.php:76
+#: framework/functions/meta/post.php:76 framework/functions/meta/product.php:75
+msgid ""
+"If ON, the store notice will be always displayed on top header (Only apply "
+"for header Style V4, V5).<span>Inherit: Theme Options > Header & Footer "
+"Settings > Header.</span>"
+msgstr ""
+
+#: framework/functions/meta/page.php:86
+#: framework/functions/meta/portfolio.php:79
+#: framework/functions/meta/post.php:79 framework/functions/meta/product.php:78
+msgid "Menu Color Style"
+msgstr ""
+
+#: framework/functions/meta/page.php:95
+#: framework/functions/meta/portfolio.php:88
+#: framework/functions/meta/post.php:88 framework/functions/meta/product.php:87
+msgid ""
+"Select a color style for menu.<span>Inherit: Theme Options > Styling "
+"Settings > Header.</span>"
+msgstr ""
+
+#: framework/functions/meta/page.php:98
+#: framework/functions/meta/portfolio.php:91
+#: framework/functions/meta/post.php:91 framework/functions/meta/product.php:90
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: framework/functions/meta/page.php:102
+#: framework/functions/meta/portfolio.php:95
+#: framework/functions/meta/post.php:95 framework/functions/meta/product.php:94
+msgid "Select alternative main navigation menu."
+msgstr ""
+
+#: framework/functions/meta/page.php:105
+#: framework/functions/meta/portfolio.php:98
+#: framework/functions/meta/post.php:98 framework/functions/meta/product.php:97
+msgid "Custom Logo"
+msgstr ""
+
+#: framework/functions/meta/page.php:108
+#: framework/functions/meta/portfolio.php:101
+#: framework/functions/meta/post.php:101
+#: framework/functions/meta/product.php:100
+msgid ""
+"Select a logo to custom for page.<span>Inherit: Theme Options > General "
+"Settings => Logo Site (Dark Logo).</span>"
+msgstr ""
+
+#: framework/functions/meta/page.php:111
+#: framework/functions/meta/portfolio.php:104
+#: framework/functions/meta/post.php:104
+#: framework/functions/meta/product.php:103
+#: framework/functions/options/general.php:52
+msgid "Sticky logo"
+msgstr ""
+
+#: framework/functions/meta/page.php:114
+#: framework/functions/meta/portfolio.php:107
+#: framework/functions/meta/post.php:107
+#: framework/functions/meta/product.php:106
+msgid ""
+"Upload your logo image for sticky header.<span>Inherit: Theme Options > "
+"General Settings => Sticky logo.</span>"
+msgstr ""
+
+#: framework/functions/meta/page.php:117
+#: framework/functions/meta/portfolio.php:110
+#: framework/functions/meta/post.php:110
+#: framework/functions/meta/product.php:109
+#: framework/functions/options/header-footer.php:93
+msgid "Show header cart"
+msgstr ""
+
+#: framework/functions/meta/page.php:121
+#: framework/functions/meta/portfolio.php:114
+#: framework/functions/meta/post.php:114
+#: framework/functions/meta/product.php:113
+msgid "Show or hide the cart icon."
+msgstr ""
+
+#: framework/functions/meta/page.php:124
+#: framework/functions/meta/portfolio.php:117
+#: framework/functions/meta/post.php:124
+#: framework/functions/meta/product.php:116
+#: framework/functions/options/header-footer.php:100
+msgid "Show header search"
+msgstr ""
+
+#: framework/functions/meta/page.php:128
+#: framework/functions/meta/portfolio.php:121
+#: framework/functions/meta/post.php:128
+#: framework/functions/meta/product.php:120
+msgid "Show or hide header search icon."
+msgstr ""
+
+#: framework/functions/meta/page.php:131
+#: framework/functions/meta/portfolio.php:124
+#: framework/functions/meta/post.php:131
+#: framework/functions/meta/product.php:123
+#: framework/functions/options/header-footer.php:301
+msgid "Show socials"
+msgstr ""
+
+#: framework/functions/meta/page.php:135
+#: framework/functions/meta/portfolio.php:128
+#: framework/functions/meta/post.php:135
+#: framework/functions/meta/product.php:127
+#: framework/functions/options/header-footer.php:304
+msgid "If ON, the socials media will be displayed."
+msgstr ""
+
+#: framework/functions/meta/page.php:138
+#: framework/functions/meta/portfolio.php:131
+#: framework/functions/meta/post.php:138
+#: framework/functions/meta/product.php:130
+msgid "Show header phone"
+msgstr ""
+
+#: framework/functions/meta/page.php:142
+#: framework/functions/meta/portfolio.php:135
+#: framework/functions/meta/post.php:142
+#: framework/functions/meta/product.php:134
+msgid "Show or hide header phone. It's depend on header style."
+msgstr ""
+
+#: framework/functions/meta/page.php:145
+#: framework/functions/meta/portfolio.php:138
+#: framework/functions/meta/post.php:145
+#: framework/functions/meta/product.php:137
+msgid "Show header email"
+msgstr ""
+
+#: framework/functions/meta/page.php:149
+#: framework/functions/meta/portfolio.php:142
+#: framework/functions/meta/post.php:149
+#: framework/functions/meta/product.php:141
+msgid "Show or hide header email. It's depend on header style."
+msgstr ""
+
+#: framework/functions/meta/page.php:152
+#: framework/functions/meta/portfolio.php:145
+#: framework/functions/meta/post.php:152
+#: framework/functions/meta/product.php:144
+msgid "Show header address"
+msgstr ""
+
+#: framework/functions/meta/page.php:156
+#: framework/functions/meta/portfolio.php:149
+#: framework/functions/meta/post.php:156
+#: framework/functions/meta/product.php:148
+msgid "Show or hide the address. It's depend on header style."
+msgstr ""
+
+#: framework/functions/meta/page.php:161
+#: framework/functions/meta/portfolio.php:154
+#: framework/functions/meta/post.php:161
+#: framework/functions/meta/product.php:153
+#: framework/functions/options/header-footer.php:190
+#: framework/functions/options/woocommerce.php:99
+msgid "Enable Title"
+msgstr ""
+
+#: framework/functions/meta/page.php:166
+#: framework/functions/meta/portfolio.php:159
+#: framework/functions/meta/post.php:166
+#: framework/functions/meta/product.php:157
+msgid ""
+"If ON, page title will display in page.<br /><b>If OFF all options below "
+"will not apply.</b>"
+msgstr ""
+
+#: framework/functions/meta/page.php:169
+#: framework/functions/meta/portfolio.php:162
+#: framework/functions/meta/post.php:169
+#: framework/functions/meta/product.php:160
+#: framework/functions/options/header-footer.php:209
+msgid "Header Integration"
+msgstr ""
+
+#: framework/functions/meta/page.php:173
+#: framework/functions/meta/portfolio.php:166
+#: framework/functions/meta/post.php:173
+#: framework/functions/meta/product.php:164
+#: framework/functions/options/header-footer.php:213
+msgid "If ON, page header will be overlap into page title."
+msgstr ""
+
+#: framework/functions/meta/page.php:176
+#: framework/functions/meta/portfolio.php:169
+#: framework/functions/meta/post.php:176
+#: framework/functions/meta/product.php:167
+msgid "Page Feature Settings"
+msgstr ""
+
+#: framework/functions/meta/page.php:181
+#: framework/functions/meta/portfolio.php:174
+#: framework/functions/meta/post.php:181
+#: framework/functions/meta/product.php:172
+msgid "Page Feature Type"
+msgstr ""
+
+#: framework/functions/meta/page.php:188
+#: framework/functions/meta/portfolio.php:181
+#: framework/functions/meta/post.php:188
+#: framework/functions/meta/product.php:179
+msgid "Please select the background type you would like to use for page title."
+msgstr ""
+
+#: framework/functions/meta/page.php:191
+#: framework/functions/meta/portfolio.php:322
+#: framework/functions/meta/post.php:191
+#: framework/functions/meta/product.php:182
+#: framework/functions/options/header-footer.php:235
+#: framework/functions/options/woocommerce.php:137
+msgid "Feature Size"
+msgstr ""
+
+#: framework/functions/meta/page.php:200
+#: framework/functions/meta/portfolio.php:331
+#: framework/functions/meta/post.php:200
+#: framework/functions/meta/product.php:191
+msgid ""
+"Note: If you choose Feature Type is Revolution Slider, so the height is "
+"configured from Revolution Slider Settings, do not use Feature Height."
+msgstr ""
+
+#: framework/functions/meta/page.php:203
+#: framework/functions/meta/portfolio.php:334
+#: framework/functions/meta/post.php:203
+#: framework/functions/meta/product.php:194
+#: framework/functions/options/header-footer.php:247
+#: framework/functions/options/woocommerce.php:149
+msgid "Feature Height"
+msgstr ""
+
+#: framework/functions/meta/page.php:218
+#: framework/functions/meta/portfolio.php:349
+#: framework/functions/meta/post.php:218
+#: framework/functions/meta/product.php:209
+#: framework/functions/options/header-footer.php:262
+#: framework/functions/options/woocommerce.php:164
+msgid "Choose a value for height"
+msgstr ""
+
+#: framework/functions/meta/page.php:221
+#: framework/functions/meta/portfolio.php:352
+#: framework/functions/meta/post.php:221
+#: framework/functions/meta/product.php:212
+#: framework/functions/options/header-footer.php:265
+#: framework/functions/options/woocommerce.php:167
+msgid "Feature Min Height"
+msgstr ""
+
+#: framework/functions/meta/page.php:227
+#: framework/functions/meta/portfolio.php:358
+#: framework/functions/meta/post.php:227
+#: framework/functions/meta/product.php:218
+#: framework/functions/options/header-footer.php:270
+#: framework/functions/options/woocommerce.php:172
+msgid "Input min height in px, ex: 200 or 300 or..."
+msgstr ""
+
+#: framework/functions/meta/page.php:232
+#: framework/functions/meta/portfolio.php:186
+#: framework/functions/meta/post.php:232
+#: framework/functions/meta/product.php:223
+msgid "Images Slider"
+msgstr ""
+
+#: framework/functions/meta/page.php:236
+#: framework/functions/meta/portfolio.php:190
+#: framework/functions/meta/post.php:236 framework/functions/meta/post.php:680
+#: framework/functions/meta/product.php:227
+msgid "Choose some images for gallery."
+msgstr ""
+
+#: framework/functions/meta/page.php:239
+#: framework/functions/meta/portfolio.php:193
+#: framework/functions/meta/post.php:239
+#: framework/functions/meta/product.php:230
+msgid "Pin Image (Marker)"
+msgstr ""
+
+#: framework/functions/meta/page.php:244
+#: framework/functions/meta/portfolio.php:198
+#: framework/functions/meta/post.php:244
+#: framework/functions/meta/product.php:235
+msgid "Select a pin image to be used on Google Map"
+msgstr ""
+
+#: framework/functions/meta/page.php:247
+#: framework/functions/meta/portfolio.php:201
+#: framework/functions/meta/post.php:247
+#: framework/functions/meta/product.php:238
+msgid "Map style"
+msgstr ""
+
+#: framework/functions/meta/page.php:266
+#: framework/functions/meta/portfolio.php:220
+#: framework/functions/meta/post.php:266
+#: framework/functions/meta/product.php:257
+msgid "Map zoom"
+msgstr ""
+
+#: framework/functions/meta/page.php:272
+#: framework/functions/meta/portfolio.php:226
+#: framework/functions/meta/post.php:272
+#: framework/functions/meta/product.php:263
+msgid "Input a value (from 1 to 18)"
+msgstr ""
+
+#: framework/functions/meta/page.php:275
+#: framework/functions/meta/portfolio.php:229
+#: framework/functions/meta/post.php:275
+#: framework/functions/meta/product.php:266
+msgid "Address 1"
+msgstr ""
+
+#: framework/functions/meta/page.php:281
+#: framework/functions/meta/portfolio.php:235
+#: framework/functions/meta/post.php:281
+#: framework/functions/meta/product.php:272
+msgid "Address 2"
+msgstr ""
+
+#: framework/functions/meta/page.php:287
+#: framework/functions/meta/portfolio.php:241
+#: framework/functions/meta/post.php:287
+#: framework/functions/meta/product.php:278
+msgid "Address 3"
+msgstr ""
+
+#: framework/functions/meta/page.php:293
+#: framework/functions/meta/portfolio.php:247
+#: framework/functions/meta/post.php:293
+#: framework/functions/meta/product.php:284
+msgid "Address 4"
+msgstr ""
+
+#: framework/functions/meta/page.php:299
+#: framework/functions/meta/portfolio.php:253
+#: framework/functions/meta/post.php:299
+#: framework/functions/meta/product.php:290
+msgid "Address 5"
+msgstr ""
+
+#: framework/functions/meta/page.php:305
+#: framework/functions/meta/portfolio.php:260
+#: framework/functions/meta/post.php:306 framework/functions/meta/post.php:583
+#: framework/functions/meta/product.php:297
+msgid "Video type"
+msgstr ""
+
+#: framework/functions/meta/page.php:316
+#: framework/functions/meta/portfolio.php:271
+#: framework/functions/meta/post.php:317 framework/functions/meta/post.php:593
+#: framework/functions/meta/product.php:308
+msgid "Select video type."
+msgstr ""
+
+#: framework/functions/meta/page.php:319
+#: framework/functions/meta/portfolio.php:274
+#: framework/functions/meta/post.php:320 framework/functions/meta/post.php:596
+#: framework/functions/meta/product.php:311
+msgid "Video Youtube URL"
+msgstr ""
+
+#: framework/functions/meta/page.php:325
+#: framework/functions/meta/portfolio.php:280
+#: framework/functions/meta/post.php:326 framework/functions/meta/post.php:602
+#: framework/functions/meta/product.php:317
+msgid "Input Youtube Video URL here."
+msgstr ""
+
+#: framework/functions/meta/page.php:328
+#: framework/functions/meta/portfolio.php:283
+#: framework/functions/meta/post.php:329 framework/functions/meta/post.php:605
+#: framework/functions/meta/product.php:320
+msgid "Video Vimeo URL"
+msgstr ""
+
+#: framework/functions/meta/page.php:334
+#: framework/functions/meta/portfolio.php:289
+#: framework/functions/meta/post.php:335 framework/functions/meta/post.php:611
+#: framework/functions/meta/product.php:326
+msgid "Input Vimeo Video URL here."
+msgstr ""
+
+#: framework/functions/meta/page.php:337
+#: framework/functions/meta/portfolio.php:292
+#: framework/functions/meta/post.php:338 framework/functions/meta/post.php:614
+#: framework/functions/meta/product.php:329
+msgid "MP4 Video URL"
+msgstr ""
+
+#: framework/functions/meta/page.php:344 framework/functions/meta/page.php:354
+#: framework/functions/meta/page.php:364
+#: framework/functions/meta/portfolio.php:299
+#: framework/functions/meta/portfolio.php:309
+#: framework/functions/meta/portfolio.php:319
+#: framework/functions/meta/post.php:345 framework/functions/meta/post.php:355
+#: framework/functions/meta/post.php:365 framework/functions/meta/post.php:621
+#: framework/functions/meta/post.php:631 framework/functions/meta/post.php:641
+#: framework/functions/meta/product.php:336
+#: framework/functions/meta/product.php:346
+#: framework/functions/meta/product.php:356
+msgid "Video url is required here if self hosted option is selected."
+msgstr ""
+
+#: framework/functions/meta/page.php:347
+#: framework/functions/meta/portfolio.php:302
+#: framework/functions/meta/post.php:348 framework/functions/meta/post.php:624
+#: framework/functions/meta/product.php:339
+msgid "OGG Video URL"
+msgstr ""
+
+#: framework/functions/meta/page.php:357
+#: framework/functions/meta/portfolio.php:312
+#: framework/functions/meta/post.php:358 framework/functions/meta/post.php:634
+#: framework/functions/meta/product.php:349
+msgid "WEBM Video URL"
+msgstr ""
+
+#: framework/functions/meta/page.php:367
+#: framework/functions/meta/portfolio.php:362
+#: framework/functions/meta/post.php:368
+#: framework/functions/meta/product.php:359
+msgid "Page Title Image Default"
+msgstr ""
+
+#: framework/functions/meta/page.php:372
+#: framework/functions/meta/portfolio.php:367
+#: framework/functions/meta/post.php:373
+#: framework/functions/meta/product.php:365
+#: framework/functions/options/header-footer.php:197
+#: framework/functions/options/woocommerce.php:106
+msgid "Title Style"
+msgstr ""
+
+#: framework/functions/meta/page.php:375
+#: framework/functions/meta/portfolio.php:370
+#: framework/functions/meta/post.php:376
+#: framework/functions/meta/product.php:369
+msgid "Please choose style for the page title"
+msgstr ""
+
+#: framework/functions/meta/page.php:384
+#: framework/functions/meta/portfolio.php:379
+#: framework/functions/meta/post.php:385
+#: framework/functions/meta/product.php:377
+#: framework/functions/options/header-footer.php:216
+#: framework/functions/options/woocommerce.php:118
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: framework/functions/meta/page.php:388
+#: framework/functions/meta/portfolio.php:383
+#: framework/functions/meta/post.php:389
+msgid "If ON, breadcrumb will display in title section."
+msgstr ""
+
+#: framework/functions/meta/page.php:392
+#: framework/functions/meta/portfolio.php:387
+#: framework/functions/meta/post.php:393
+#: framework/functions/meta/product.php:384
+#: framework/functions/options/header-footer.php:223
+#: framework/functions/options/woocommerce.php:125
+msgid "Page Title Position"
+msgstr ""
+
+#: framework/functions/meta/page.php:396
+#: framework/functions/meta/portfolio.php:391
+#: framework/functions/meta/post.php:397
+#: framework/functions/meta/product.php:388
+msgid ""
+"With this option page title will be shown above or header feature section."
+msgstr ""
+
+#: framework/functions/meta/page.php:405
+#: framework/functions/meta/portfolio.php:400
+#: framework/functions/meta/post.php:406
+#: framework/functions/meta/product.php:397
+#: framework/functions/options/header-footer.php:273
+#: framework/functions/options/woocommerce.php:175
+msgid "Background Image"
+msgstr ""
+
+#: framework/functions/meta/page.php:409
+#: framework/functions/meta/portfolio.php:404
+#: framework/functions/meta/post.php:410
+#: framework/functions/meta/product.php:401
+msgid ""
+"Choose image background for header and page title. The image should be "
+"between 1920px - 1080px wide."
+msgstr ""
+
+#: framework/functions/meta/page.php:412
+#: framework/functions/meta/portfolio.php:407
+#: framework/functions/meta/post.php:413
+#: framework/functions/meta/product.php:404
+#: framework/functions/options/header-footer.php:281
+#: framework/functions/options/woocommerce.php:183
+msgid "Background Alignment"
+msgstr ""
+
+#: framework/functions/meta/page.php:415
+#: framework/functions/meta/portfolio.php:410
+#: framework/functions/meta/post.php:416
+#: framework/functions/meta/product.php:407
+#: framework/functions/options/header-footer.php:284
+#: framework/functions/options/woocommerce.php:186
+msgid "Please choose how you would like your slides background to be aligned."
+msgstr ""
+
+#: framework/functions/meta/page.php:424
+#: framework/functions/meta/portfolio.php:419
+#: framework/functions/meta/post.php:425
+#: framework/functions/meta/product.php:416
+msgid "Show Overlay Div"
+msgstr ""
+
+#: framework/functions/meta/page.php:429
+#: framework/functions/meta/portfolio.php:424
+#: framework/functions/meta/post.php:430
+#: framework/functions/meta/product.php:421
+msgid "If ON, a div with color will be overlap background image."
+msgstr ""
+
+#: framework/functions/meta/page.php:432
+#: framework/functions/meta/portfolio.php:427
+#: framework/functions/meta/post.php:433
+#: framework/functions/meta/product.php:424
+msgid "Overlay Color"
+msgstr ""
+
+#: framework/functions/meta/page.php:437
+#: framework/functions/meta/portfolio.php:432
+#: framework/functions/meta/post.php:438
+#: framework/functions/meta/product.php:429
+msgid "Set color for overlay div."
+msgstr ""
+
+#: framework/functions/meta/page.php:440
+#: framework/functions/meta/portfolio.php:435
+#: framework/functions/meta/post.php:441
+#: framework/functions/meta/product.php:432
+msgid "Use Parallax"
+msgstr ""
+
+#: framework/functions/meta/page.php:444
+#: framework/functions/meta/portfolio.php:439
+#: framework/functions/meta/post.php:445
+#: framework/functions/meta/product.php:436
+msgid "This will cause your header to have a parallax scroll effect."
+msgstr ""
+
+#: framework/functions/meta/page.php:447
+#: framework/functions/meta/portfolio.php:442
+#: framework/functions/meta/post.php:448
+#: framework/functions/meta/product.php:439
+msgid "Page Header Title"
+msgstr ""
+
+#: framework/functions/meta/page.php:451
+#: framework/functions/meta/portfolio.php:446
+#: framework/functions/meta/post.php:452
+#: framework/functions/meta/product.php:442
+msgid "Enter in the page header title."
+msgstr ""
+
+#: framework/functions/meta/page.php:454
+#: framework/functions/meta/portfolio.php:449
+#: framework/functions/meta/post.php:455
+#: framework/functions/meta/product.php:445
+msgid "Page Header Subtitle"
+msgstr ""
+
+#: framework/functions/meta/page.php:458
+#: framework/functions/meta/portfolio.php:453
+#: framework/functions/meta/post.php:459
+#: framework/functions/meta/product.php:448
+msgid ""
+"Enter in the page header subtitle. If you want use FadeIn effect please "
+"using characters | to separate between each subtitles."
+msgstr ""
+
+#: framework/functions/meta/page.php:461
+#: framework/functions/meta/portfolio.php:456
+#: framework/functions/meta/post.php:462
+#: framework/functions/meta/product.php:451
+msgid "Page Header Background Color"
+msgstr ""
+
+#: framework/functions/meta/page.php:465
+#: framework/functions/meta/portfolio.php:460
+#: framework/functions/meta/post.php:466
+#: framework/functions/meta/product.php:455
+msgid "Set your desired page header background color if not using an image."
+msgstr ""
+
+#: framework/functions/meta/page.php:468
+#: framework/functions/meta/portfolio.php:463
+#: framework/functions/meta/post.php:469
+#: framework/functions/meta/product.php:458
+msgid "Page Header Font Color"
+msgstr ""
+
+#: framework/functions/meta/page.php:472
+#: framework/functions/meta/portfolio.php:467
+#: framework/functions/meta/post.php:473
+#: framework/functions/meta/product.php:462
+msgid "Set your desired page header font color"
+msgstr ""
+
+#: framework/functions/meta/page.php:477
+#: framework/functions/meta/portfolio.php:472
+#: framework/functions/meta/post.php:478
+#: framework/functions/meta/product.php:467
+#: framework/functions/options/header-footer.php:354
+msgid "Disable Footer"
+msgstr ""
+
+#: framework/functions/meta/page.php:481
+#: framework/functions/meta/portfolio.php:476
+#: framework/functions/meta/post.php:482
+#: framework/functions/meta/product.php:471
+#: framework/functions/options/header-footer.php:358
+msgid "Disable page footer."
+msgstr ""
+
+#: framework/functions/meta/page.php:484
+#: framework/functions/meta/portfolio.php:479
+#: framework/functions/meta/post.php:485
+#: framework/functions/meta/product.php:474
+msgid "Footer Style"
+msgstr ""
+
+#: framework/functions/meta/page.php:495
+#: framework/functions/meta/portfolio.php:490
+#: framework/functions/meta/post.php:496
+#: framework/functions/meta/product.php:485
+msgid ""
+"Choose a footer style for this page. <span>Inherit: Theme Options > Header & "
+"Footer Settings > Footer.</span>"
+msgstr ""
+
+#: framework/functions/meta/page.php:498
+#: framework/functions/meta/portfolio.php:493
+#: framework/functions/meta/post.php:499
+#: framework/functions/meta/product.php:488
+#: framework/functions/options/header-footer.php:375
+msgid "Footer Logo"
+msgstr ""
+
+#: framework/functions/meta/page.php:502
+#: framework/functions/meta/portfolio.php:497
+#: framework/functions/meta/post.php:503
+#: framework/functions/meta/product.php:492
+#: framework/functions/options/header-footer.php:379
+msgid ""
+"Upload your footer logo image. (Best 160px x 45px). Use for footer style #3"
+msgstr ""
+
+#: framework/functions/meta/page.php:505
+#: framework/functions/meta/portfolio.php:500
+#: framework/functions/meta/post.php:506
+#: framework/functions/meta/product.php:495
+#: framework/functions/options/header-footer.php:382
+msgid "Footer Background"
+msgstr ""
+
+#: framework/functions/meta/page.php:509
+#: framework/functions/meta/portfolio.php:504
+#: framework/functions/meta/post.php:510
+#: framework/functions/meta/product.php:499
+#: framework/functions/options/header-footer.php:385
+msgid "Upload a image for background footer (Best 1920 x 1000px)."
+msgstr ""
+
+#: framework/functions/meta/page.php:512
+#: framework/functions/meta/portfolio.php:507
+#: framework/functions/meta/post.php:513
+#: framework/functions/meta/product.php:502
+#: framework/functions/options/header-footer.php:388
+msgid "Footer Top Color Scheme"
+msgstr ""
+
+#: framework/functions/meta/page.php:521
+#: framework/functions/meta/portfolio.php:516
+#: framework/functions/meta/post.php:522
+#: framework/functions/meta/product.php:511
+#: framework/functions/options/header-footer.php:396
+msgid "Select footer top color scheme here, depend on footer style above."
+msgstr ""
+
+#: framework/functions/meta/page.php:524
+#: framework/functions/meta/portfolio.php:519
+#: framework/functions/meta/post.php:525
+#: framework/functions/meta/product.php:514
+#: framework/functions/options/header-footer.php:399
+msgid "Footer Bottom Color Scheme"
+msgstr ""
+
+#: framework/functions/meta/page.php:534
+#: framework/functions/meta/portfolio.php:529
+#: framework/functions/meta/post.php:535
+#: framework/functions/meta/product.php:524
+#: framework/functions/options/header-footer.php:408
+msgid "Select footer bottom color scheme here, depend on footer style above."
+msgstr ""
+
+#: framework/functions/meta/page.php:540
+#: framework/functions/meta/portfolio.php:682
+#: framework/functions/meta/post.php:570
+msgid "Enable Comments"
+msgstr ""
+
+#: framework/functions/meta/page.php:544
+#: framework/functions/meta/portfolio.php:686
+#: framework/functions/meta/post.php:574
+msgid "Enable/disable page comment."
+msgstr ""
+
+#: framework/functions/meta/page.php:547
+msgid "Use Audio Music"
+msgstr ""
+
+#: framework/functions/meta/page.php:557
+msgid "Use audio for page if you want, it will be display on bottom left."
+msgstr ""
+
+#: framework/functions/meta/page.php:560 framework/functions/meta/post.php:657
+msgid "MP3 URL"
+msgstr ""
+
+#: framework/functions/meta/page.php:566 framework/functions/meta/post.php:663
+msgid "MP3 url is required here if \"Audio MP3\" option is selected."
+msgstr ""
+
+#: framework/functions/meta/page.php:569 framework/functions/meta/post.php:666
+msgid "Soundcloud URL"
+msgstr ""
+
+#: framework/functions/meta/page.php:574 framework/functions/meta/post.php:672
+msgid ""
+"Soundcloud shortcode is required here if \"Audio Soundcloud\" option is "
+"selected."
+msgstr ""
+
+#: framework/functions/meta/page.php:577
+msgid "Autoplay"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:535
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:540
+msgid "Portfolio Thumbnail Sizing"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:544
+msgid ""
+"This will only be used if you choose to display your portfolio in the "
+"masonry format (Multi Size)."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:548
+msgid "Hover color"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:552
+msgid "Choose a color hover for this portfolio."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:555
+#: framework/functions/meta/post.php:541
+msgid "Custom Thumbnail Image"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:558
+#: framework/functions/meta/post.php:544
+msgid ""
+"By default the theme will generate automatically the thumbnail image for the "
+"item from the image you set as featured. However, if you prefer to manually "
+"set this thumbnail image <b>OR use this field for Masonry style</b>, you can "
+"set its URL in this field."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:561
+msgid "External Project URL"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:564
+msgid ""
+"If you would like your project to link to a custom location, enter it here "
+"(remember to input \"http://\")"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:569
+msgid "Use this field to save media ID for upload field above."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:572
+msgid "Single Portfolio Settings"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:577
+msgid "Portfolio Item Type"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:585
+msgid "Layout style"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:588
+msgid ""
+"When you style 2 please only input simple content above. NOTE: This option "
+"don't apply for type \"Vertical Gallery & Sticky Sidebar\"."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:604
+msgid "Slider Items"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:608
+msgid "Choose some image items for slider."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:611
+#: framework/functions/meta/portfolio.php:618
+#: framework/functions/meta/portfolio.php:625
+msgid "Gallery Items"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:615
+#: framework/functions/meta/portfolio.php:622
+#: framework/functions/meta/portfolio.php:629
+msgid "Choose some image items for gallery."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:632
+msgid "Youtube/Vimeo Video URL"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:637
+msgid ""
+"If the \"Video\" option is selected in the \"Portfolio Item Type\" field "
+"above, you can set the video URL in this field (remember to input \"http://"
+"\")."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:640
+msgid "MP4 URL"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:646
+msgid "Upload the .mp4 video file."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:649
+msgid "WebM URL"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:655
+msgid "Upload the .webm video file."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:658
+msgid "OGG/OGV URL"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:664
+msgid "Upload the .ogg or.ogv video file (optional)."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:667
+#: framework/functions/options/portfolio.php:148
+msgid "Page Back Portfolio"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:672
+#: framework/functions/options/portfolio.php:153
+msgid "Choose a page to back to portfolio page in navigation."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:675
+msgid "Show Related Portfolio"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:679
+msgid "If ON, the section related portfolio will be display."
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:689
+msgid "Project Settings"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:698
+msgid "Your client of project"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:701
+msgid "Project URL In Detail Page"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:705
+msgid "Enter URL to view your project (remember to input \"http://\")"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:708
+msgid "Release Date"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:711
+msgid "Project release date"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:714
+msgid "Custom Content"
+msgstr ""
+
+#: framework/functions/meta/portfolio.php:717
+msgid "Custom simple content in portfolio detail page (below main content)"
+msgstr ""
+
+#: framework/functions/meta/post.php:547
+msgid "Post Thumbnail Sizing"
+msgstr ""
+
+#: framework/functions/meta/post.php:552
+msgid ""
+"This will only be used if you choose to display your post in the masonry "
+"format."
+msgstr ""
+
+#: framework/functions/meta/post.php:556
+msgid "Show Related Post"
+msgstr ""
+
+#: framework/functions/meta/post.php:560
+msgid "If ON, the related post will be display."
+msgstr ""
+
+#: framework/functions/meta/post.php:563
+msgid "Show Author Biographical"
+msgstr ""
+
+#: framework/functions/meta/post.php:567
+msgid "If ON, the author biographical info will be display."
+msgstr ""
+
+#: framework/functions/meta/post.php:579
+msgid "Post Format Settings"
+msgstr ""
+
+#: framework/functions/meta/post.php:645
+msgid "Audio type"
+msgstr ""
+
+#: framework/functions/meta/post.php:654
+msgid "Select audio type."
+msgstr ""
+
+#: framework/functions/meta/post.php:676
+msgid "Gallery"
+msgstr ""
+
+#: framework/functions/meta/post.php:684
+msgid "Quote Content"
+msgstr ""
+
+#: framework/functions/meta/post.php:689
+msgid "Add block quote content."
+msgstr ""
+
+#: framework/functions/meta/post.php:692
+msgid "Quote Author"
+msgstr ""
+
+#: framework/functions/meta/post.php:697
+msgid "Add block quote author."
+msgstr ""
+
+#: framework/functions/meta/post.php:701
+msgid "Link Text"
+msgstr ""
+
+#: framework/functions/meta/post.php:706
+msgid "Add link text here."
+msgstr ""
+
+#: framework/functions/meta/post.php:709
+msgid "Link URL"
+msgstr ""
+
+#: framework/functions/meta/post.php:714
+msgid "Add link URL here."
+msgstr ""
+
+#: framework/functions/meta/post.php:717
+msgid ""
+"<span>Note:</span> To see different fields post format Please change radio "
+"button on metabox <b>FORMAT</b> in the right sidebar"
+msgstr ""
+
+#: framework/functions/meta/product.php:381
+msgid "If ON, breadcrumb will be display in title section."
+msgstr ""
+
+#: framework/functions/meta/product.php:531
+msgid "Product video"
+msgstr ""
+
+#: framework/functions/meta/product.php:536
+msgid ""
+"Input youtube video here to display video link popup on product single page."
+msgstr ""
+
+#: framework/functions/meta/product.php:539
+#: framework/functions/options/woocommerce.php:382
+msgid "Product thumbnails style"
+msgstr ""
+
+#: framework/functions/meta/product.php:543
+#: framework/functions/options/woocommerce.php:386
+msgid "Select thumbnails style you want."
+msgstr ""
+
+#: framework/functions/meta/product.php:550
+#: framework/functions/options/woocommerce.php:375
+msgid "Enable cloud zoom"
+msgstr ""
+
+#: framework/functions/meta/product.php:554
+#: framework/functions/options/woocommerce.php:379
+msgid ""
+"If OFF, product gallery images will open in a lightbox. This option "
+"overrides the option of WooCommerce."
+msgstr ""
+
+#: framework/functions/meta/product.php:557
+#: framework/functions/options/woocommerce.php:234
+#: framework/functions/options/woocommerce.php:393
+msgid "Enable product title"
+msgstr ""
+
+#: framework/functions/meta/product.php:561
+#: framework/functions/options/woocommerce.php:238
+#: framework/functions/options/woocommerce.php:397
+msgid "If ON, the product title will be displayed."
+msgstr ""
+
+#: framework/functions/meta/product.php:564
+#: framework/functions/options/woocommerce.php:241
+#: framework/functions/options/woocommerce.php:400
+msgid "Enable product label"
+msgstr ""
+
+#: framework/functions/meta/product.php:568
+#: framework/functions/options/woocommerce.php:245
+#: framework/functions/options/woocommerce.php:404
+msgid "If ON, the product label will be displayed."
+msgstr ""
+
+#: framework/functions/meta/product.php:571
+#: framework/functions/options/woocommerce.php:407
+msgid "Enable product availability"
+msgstr ""
+
+#: framework/functions/meta/product.php:575
+#: framework/functions/options/woocommerce.php:411
+msgid "If ON, the product availability will be displayed."
+msgstr ""
+
+#: framework/functions/meta/product.php:578
+#: framework/functions/options/woocommerce.php:248
+#: framework/functions/options/woocommerce.php:414
+msgid "Enable product price"
+msgstr ""
+
+#: framework/functions/meta/product.php:582
+#: framework/functions/options/woocommerce.php:252
+#: framework/functions/options/woocommerce.php:418
+msgid "If ON, the product price will be displayed."
+msgstr ""
+
+#: framework/functions/meta/product.php:585
+#: framework/functions/options/woocommerce.php:269
+#: framework/functions/options/woocommerce.php:421
+msgid "Enable product rating"
+msgstr ""
+
+#: framework/functions/meta/product.php:589
+#: framework/functions/options/woocommerce.php:273
+#: framework/functions/options/woocommerce.php:425
+msgid "If ON, the product rating will be displayed."
+msgstr ""
+
+#: framework/functions/meta/product.php:592
+#: framework/functions/options/woocommerce.php:428
+msgid "Enable product excerpt"
+msgstr ""
+
+#: framework/functions/meta/product.php:596
+#: framework/functions/options/woocommerce.php:432
+msgid "If ON, the product excerpt will be displayed."
+msgstr ""
+
+#: framework/functions/meta/product.php:599
+#: framework/functions/options/woocommerce.php:276
+#: framework/functions/options/woocommerce.php:435
+msgid "Enable add to cart button"
+msgstr ""
+
+#: framework/functions/meta/product.php:603
+#: framework/functions/options/woocommerce.php:439
+msgid "If ON, the product add to cart will be displayed."
+msgstr ""
+
+#: framework/functions/meta/product.php:606
+#: framework/functions/options/woocommerce.php:442
+msgid "Enable meta"
+msgstr ""
+
+#: framework/functions/meta/product.php:610
+#: framework/functions/options/woocommerce.php:446
+msgid "If ON, the meta (SKU, Tags and categories) will be displayed."
+msgstr ""
+
+#: framework/functions/meta/product.php:613
+#: framework/functions/options/woocommerce.php:449
+msgid "Enable pagination"
+msgstr ""
+
+#: framework/functions/meta/product.php:617
+#: framework/functions/options/woocommerce.php:453
+msgid ""
+"If ON, the product pagination Next & Previous will be displayed on detail "
+"page."
+msgstr ""
+
+#: framework/functions/meta/product.php:620
+#: framework/functions/options/blog.php:175
+#: framework/functions/options/portfolio.php:132
+#: framework/functions/options/woocommerce.php:456
+msgid "Enable share-box"
+msgstr ""
+
+#: framework/functions/meta/product.php:624
+#: framework/functions/options/blog.php:179
+#: framework/functions/options/portfolio.php:136
+#: framework/functions/options/woocommerce.php:460
+msgid "If ON, the share-box will be displayed on post detail page."
+msgstr ""
+
+#: framework/functions/meta/product.php:627
+#: framework/functions/options/woocommerce.php:472
+msgid "Show shipping & return box"
+msgstr ""
+
+#: framework/functions/meta/product.php:631
+#: framework/functions/options/woocommerce.php:476
+msgid "If ON, the shipping return content will be displayed."
+msgstr ""
+
+#: framework/functions/meta/product.php:634
+#: framework/functions/meta/product.php:639
+#: framework/functions/options/woocommerce.php:481
+msgid "Product Custom Tabs"
+msgstr ""
+
+#: framework/functions/meta/product.php:643
+msgid "You can use default setting in Theme Option OR override it."
+msgstr ""
+
+#: framework/functions/meta/product.php:650
+#: framework/functions/options/woocommerce.php:498
+msgid "Product Custom Tabs Text"
+msgstr ""
+
+#: framework/functions/meta/product.php:657
+#: framework/functions/options/woocommerce.php:504
+msgid "Product Custom Tabs content"
+msgstr ""
+
+#: framework/functions/meta/product.php:663
+#: framework/functions/options/woocommerce.php:509
+msgid "Enter custom content here."
+msgstr ""
+
+#: framework/functions/meta/product.php:666
+#: framework/functions/options/woocommerce.php:514
+msgid "Related & Up-Sell Products"
+msgstr ""
+
+#: framework/functions/meta/product.php:671
+#: framework/functions/options/woocommerce.php:517
+msgid "Enable Related products"
+msgstr ""
+
+#: framework/functions/meta/product.php:675
+#: framework/functions/options/woocommerce.php:521
+msgid "If ON, the section related product will be displayed."
+msgstr ""
+
+#: framework/functions/meta/product.php:678
+#: framework/functions/options/woocommerce.php:524
+msgid "Enable Up-Sell products"
+msgstr ""
+
+#: framework/functions/meta/product.php:682
+#: framework/functions/options/woocommerce.php:528
+msgid "If ON, the section up-sells product will be displayed."
+msgstr ""
+
+#: framework/functions/meta/team.php:8
+msgid "Position"
+msgstr ""
+
+#: framework/functions/meta/team.php:11
+msgid "Ex: CEO Yahoo, Theme Development"
+msgstr ""
+
+#: framework/functions/meta/team.php:14
+msgid "Personal URL"
+msgstr ""
+
+#: framework/functions/meta/team.php:17
+msgid "Start url with http:// or https://"
+msgstr ""
+
+#: framework/functions/meta/team.php:20
+msgid "Short description"
+msgstr ""
+
+#: framework/functions/meta/team.php:24
+msgid "This is Optional"
+msgstr ""
+
+#: framework/functions/meta/team.php:30
+msgid "Gmail, Yahoo mail,..."
+msgstr ""
+
+#: framework/functions/meta/team.php:33
+msgid "Twittter URL"
+msgstr ""
+
+#: framework/functions/meta/team.php:36
+msgid "Link to Twittter page."
+msgstr ""
+
+#: framework/functions/meta/team.php:39
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/functions/meta/team.php:42
+msgid "Link to Facebook page."
+msgstr ""
+
+#: framework/functions/meta/team.php:45
+msgid "Google Plus URL"
+msgstr ""
+
+#: framework/functions/meta/team.php:48
+msgid "Link to Google Plus page."
+msgstr ""
+
+#: framework/functions/meta/team.php:51
+msgid "Pinterest URL"
+msgstr ""
+
+#: framework/functions/meta/team.php:54
+msgid "Link to Pinterest page."
+msgstr ""
+
+#: framework/functions/meta/team.php:57
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/functions/meta/team.php:60
+msgid "Link to Instagram page."
+msgstr ""
+
+#: framework/functions/meta/team.php:63
+msgid "Linkedin URL"
+msgstr ""
+
+#: framework/functions/meta/team.php:66
+msgid "Link to Linkedin page."
+msgstr ""
+
+#: framework/functions/meta/team.php:69
+msgid "Dribble URL"
+msgstr ""
+
+#: framework/functions/meta/team.php:72 framework/functions/meta/team.php:78
+msgid "Link to Dribble page."
+msgstr ""
+
+#: framework/functions/meta/team.php:75
+msgid "Behance URL"
+msgstr ""
+
+#: framework/functions/meta/team.php:81
+msgid "Youtube URL"
+msgstr ""
+
+#: framework/functions/meta/team.php:84
+msgid "Link to Youtube page."
+msgstr ""
+
+#: framework/functions/meta/team.php:87
+msgid "Vimeo URL"
+msgstr ""
+
+#: framework/functions/meta/team.php:90
+msgid "Link to Vimeo page."
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:8
+msgid "Author Name"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:13
+msgid "Testimonial"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:16
+msgid "Enter the name of the author for this testimonial."
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:19
+msgid "Rating Star"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:24
+msgid "1 Star"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:25
+msgid "2 Stars"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:26
+msgid "3 Stars"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:27
+msgid "4 Stars"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:28
+msgid "5 Stars"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:30
+msgid "Choose a star number for this testimonial."
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:33
+msgid "Author Avatar"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:39
+msgid "Occupation"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:42
+msgid "Enter the author's occupation."
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:45
+msgid "Organization"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:48
+msgid "Enter the author's organization."
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:51
+msgid "Organization URL"
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:54
+msgid "Link to Organization page (remember to input \"http://\")."
+msgstr ""
+
+#: framework/functions/meta/testimonials.php:57
+msgid "Open link in a new window"
+msgstr ""
+
+#: framework/functions/options/blog.php:5
+msgctxt "Theme Options Tab"
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/functions/options/blog.php:13
+#: framework/functions/options/general.php:6
+#: framework/functions/options/general.php:14
+#: framework/functions/options/sidebar.php:13
+#: framework/functions/options/typography.php:13
+#: framework/functions/options/woocommerce.php:13
+msgctxt "Theme Options Subtab"
+msgid "General"
+msgstr ""
+
+#: framework/functions/options/blog.php:14
+msgctxt "Theme Options Subtab"
+msgid "Blog Single"
+msgstr ""
+
+#: framework/functions/options/blog.php:24
+msgid "Blog layout"
+msgstr ""
+
+#: framework/functions/options/blog.php:27
+msgid ""
+"Set the default sidebar position for Blog page and Category page. This "
+"setting will be overwritten default sidebar."
+msgstr ""
+
+#: framework/functions/options/blog.php:32
+#: framework/functions/options/blog.php:167
+#: framework/functions/options/portfolio.php:32
+#: framework/functions/options/portfolio.php:124
+#: framework/functions/options/woocommerce.php:226
+#: framework/functions/options/woocommerce.php:367
+msgid "Page sidebar"
+msgstr ""
+
+#: framework/functions/options/blog.php:36
+#: framework/functions/options/blog.php:171
+#: framework/functions/options/portfolio.php:36
+#: framework/functions/options/portfolio.php:128
+#: framework/functions/options/sidebar.php:36
+#: framework/functions/options/woocommerce.php:371
+msgid "Select a sidebar to show"
+msgstr ""
+
+#: framework/functions/options/blog.php:40
+msgid "Blog style"
+msgstr ""
+
+#: framework/functions/options/blog.php:44
+msgid "Choose a style for Blog page"
+msgstr ""
+
+#: framework/functions/options/blog.php:53
+msgid "Blog layout columns"
+msgstr ""
+
+#: framework/functions/options/blog.php:56
+msgid ""
+"Select number columns for Blog page. <br /><span style=\"color:#3FD5B0\"> "
+"(Only for Grid & Masonry style)</span>"
+msgstr ""
+
+#: framework/functions/options/blog.php:61
+#: framework/functions/options/portfolio.php:139
+msgid "Show sections from post info"
+msgstr ""
+
+#: framework/functions/options/blog.php:65
+msgid "You can choose to display each post."
+msgstr ""
+
+#: framework/functions/options/blog.php:76
+msgid "Show post summary as"
+msgstr ""
+
+#: framework/functions/options/blog.php:80
+msgid "Using the \"Read More\" tag or the excerpt."
+msgstr ""
+
+#: framework/functions/options/blog.php:88
+msgid "Excerpt length"
+msgstr ""
+
+#: framework/functions/options/blog.php:92
+msgid "If you choose post summary is excerpt, you input length here."
+msgstr ""
+
+#: framework/functions/options/blog.php:96
+msgid "Blog Template Settings"
+msgstr ""
+
+#: framework/functions/options/blog.php:99
+msgid "Enable advertisement"
+msgstr ""
+
+#: framework/functions/options/blog.php:104
+msgid "If ON, the ads feed will be displayed on the bottom."
+msgstr ""
+
+#: framework/functions/options/blog.php:107
+msgid "Advertisement"
+msgstr ""
+
+#: framework/functions/options/blog.php:113
+msgid "Upload a image for advertisement."
+msgstr ""
+
+#: framework/functions/options/blog.php:116
+msgid "Advertisement URL"
+msgstr ""
+
+#: framework/functions/options/blog.php:121
+msgid "Input a URL for advertisement, start url with http:// or https://"
+msgstr ""
+
+#: framework/functions/options/blog.php:124
+msgid "Advertisement target"
+msgstr ""
+
+#: framework/functions/options/blog.php:129
+msgid "New window"
+msgstr ""
+
+#: framework/functions/options/blog.php:130
+msgid "Same window"
+msgstr ""
+
+#: framework/functions/options/blog.php:133
+msgid "Choose a value for link target."
+msgstr ""
+
+#: framework/functions/options/blog.php:136
+msgid "Enable instagram"
+msgstr ""
+
+#: framework/functions/options/blog.php:141
+msgid "If ON, the instagram feed will be displayed on the bottom."
+msgstr ""
+
+#: framework/functions/options/blog.php:144
+msgid "Instagram username"
+msgstr ""
+
+#: framework/functions/options/blog.php:159
+msgid "Blog single layout"
+msgstr ""
+
+#: framework/functions/options/blog.php:162
+msgid ""
+"Sidebar will be applied to single Blog posts. This setting will be "
+"overwritten default sidebar."
+msgstr ""
+
+#: framework/functions/options/blog.php:182
+msgid "Social share links"
+msgstr ""
+
+#: framework/functions/options/blog.php:186
+#: framework/functions/options/portfolio.php:143
+msgid ""
+"The theme allows you to display share links to various social media at the "
+"bottom of your blog posts. Check which links you want to display:"
+msgstr ""
+
+#: framework/functions/options/blog.php:191
+msgid "Display comment"
+msgstr ""
+
+#: framework/functions/options/blog.php:195
+msgid "If ON, the comment will be displayed on post detail page."
+msgstr ""
+
+#: framework/functions/options/blog.php:198
+msgid "Display related posts"
+msgstr ""
+
+#: framework/functions/options/blog.php:202
+msgid "If ON, the related posts will be displayed on post detail page."
+msgstr ""
+
+#: framework/functions/options/blog.php:205
+msgid "Blog related articles excerpt"
+msgstr ""
+
+#: framework/functions/options/blog.php:208
+msgid "Input excerpt length for related post (depend on theme)."
+msgstr ""
+
+#: framework/functions/options/blog.php:211
+#: framework/functions/options/header-footer.php:122
+#: framework/functions/options/header-footer.php:144
+#: framework/functions/options/header-footer.php:166
+#: framework/functions/options/header-footer.php:436
+#: framework/functions/options/header-footer.php:458
+#: framework/functions/options/header-footer.php:480
+#: framework/functions/options/woocommerce.php:317
+#: framework/functions/options/woocommerce.php:338
+#: framework/includes/class-tgm-plugin-activation.php:2750
+msgid "Status"
+msgstr ""
+
+#: framework/functions/options/blog.php:217
+msgid "Length"
+msgstr ""
+
+#: framework/functions/options/general.php:7
+#: framework/functions/options/general.php:15
+msgctxt "Theme Options Subtab"
+msgid "Custom Code"
+msgstr ""
+
+#: framework/functions/options/general.php:8
+msgctxt "Theme Options Subtab"
+msgid "Coming Soon Page"
+msgstr ""
+
+#: framework/functions/options/general.php:9
+#: framework/functions/options/general.php:16
+msgctxt "Theme Options Subtab"
+msgid "404 Page"
+msgstr ""
+
+#: framework/functions/options/general.php:10
+msgctxt "Theme Options Subtab"
+msgid "API Keys"
+msgstr ""
+
+#: framework/functions/options/general.php:22
+msgctxt "Theme Options Tab"
+msgid "General Settings"
+msgstr ""
+
+#: framework/functions/options/general.php:38
+msgid "Default logo (Dark Logo)"
+msgstr ""
+
+#: framework/functions/options/general.php:42
+msgid ""
+"Use for all pages OR use when header is transparent and menu color style is "
+"Light.<br>(Best 155px x 42px)."
+msgstr ""
+
+#: framework/functions/options/general.php:45
+msgid "Transparent logo (Light Logo)"
+msgstr ""
+
+#: framework/functions/options/general.php:49
+msgid ""
+"Use when the header is transparent and menu color style is Dark.<br/>(Best "
+"155px x 42px)."
+msgstr ""
+
+#: framework/functions/options/general.php:56
+msgid "Upload your logo image for sticky header. (Best 155px x 42px)."
+msgstr ""
+
+#: framework/functions/options/general.php:59
+msgid "Favicon image URL"
+msgstr ""
+
+#: framework/functions/options/general.php:64
+msgid ""
+"Specify a favicon for your site (16px x 16px). Accepted formats: .ico, ."
+"png, .jpg, .gif extension. You can use favicon.cc to make sure it's fully "
+"compatible)"
+msgstr ""
+
+#: framework/functions/options/general.php:67
+msgid "Enable Right to Left mode"
+msgstr ""
+
+#: framework/functions/options/general.php:71
+msgid "If ON, your site will be displayed Right to Left mode."
+msgstr ""
+
+#: framework/functions/options/general.php:74
+msgid "Loader Style"
+msgstr ""
+
+#: framework/functions/options/general.php:77
+msgid "Set default loader for site."
+msgstr ""
+
+#: framework/functions/options/general.php:103
+msgid "Custom Image Loader"
+msgstr ""
+
+#: framework/functions/options/general.php:107
+msgid ""
+"When you add custom your image here, it will replace Loader Style field "
+"above.<br/>(Small image is best)."
+msgstr ""
+
+#: framework/functions/options/general.php:118
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/functions/options/general.php:122
+msgid "If you want to customize css, paste your css code here."
+msgstr ""
+
+#: framework/functions/options/general.php:125
+msgid "Before Close &lt;/head&gt; Tag"
+msgstr ""
+
+#: framework/functions/options/general.php:129
+msgid "Quickly add some custom code css/js before close head tag."
+msgstr ""
+
+#: framework/functions/options/general.php:132
+msgid "Before Close &lt;/body&gt; Tag"
+msgstr ""
+
+#: framework/functions/options/general.php:136
+msgid "Quickly add some custom code html/css/js before close body tag."
+msgstr ""
+
+#: framework/functions/options/general.php:147
+msgid "Enable Under Construction"
+msgstr ""
+
+#: framework/functions/options/general.php:151
+msgid ""
+"If ON, your site will under construction. Only administrator will be able to "
+"see frontend site."
+msgstr ""
+
+#: framework/functions/options/general.php:154
+msgid "Under Construction Page"
+msgstr ""
+
+#: framework/functions/options/general.php:159
+msgid "Select page to display when site is in under construction mode."
+msgstr ""
+
+#: framework/functions/options/general.php:162
+msgid "Coming soon style"
+msgstr ""
+
+#: framework/functions/options/general.php:171
+msgid "Select a style for coming soon page."
+msgstr ""
+
+#: framework/functions/options/general.php:174
+msgid "Coming logo"
+msgstr ""
+
+#: framework/functions/options/general.php:178
+msgid "Upload your logo image."
+msgstr ""
+
+#: framework/functions/options/general.php:181
+msgid "Coming background"
+msgstr ""
+
+#: framework/functions/options/general.php:185
+msgid "Upload your bacground. (Best 1920px x 1030px)."
+msgstr ""
+
+#: framework/functions/options/general.php:188
+msgid "Timer countdown"
+msgstr ""
+
+#: framework/functions/options/general.php:195
+msgid "Year (Ex: 2018)"
+msgstr ""
+
+#: framework/functions/options/general.php:201
+msgid "Month (Ex: 07)"
+msgstr ""
+
+#: framework/functions/options/general.php:207
+msgid "Days (Ex: 20)"
+msgstr ""
+
+#: framework/functions/options/general.php:213
+msgid "Hours (Max is 24)"
+msgstr ""
+
+#: framework/functions/options/general.php:219
+msgid "Minutes (Max is 60)"
+msgstr ""
+
+#: framework/functions/options/general.php:227
+#: framework/functions/options/general.php:292
+msgid "Large title"
+msgstr ""
+
+#: framework/functions/options/general.php:230
+msgid "Coming Soon"
+msgstr ""
+
+#: framework/functions/options/general.php:233
+#: framework/functions/options/general.php:298
+msgid "Small title"
+msgstr ""
+
+#: framework/functions/options/general.php:236
+msgid "STAY TUNED, WE ARE LAUNCHING VERY SOON..."
+msgstr ""
+
+#: framework/functions/options/general.php:239
+msgid "Disable subscribe form"
+msgstr ""
+
+#: framework/functions/options/general.php:244
+msgid "If disabled, the subscribe form will be not display."
+msgstr ""
+
+#: framework/functions/options/general.php:249
+msgid "Video Settings (for Style 2) "
+msgstr ""
+
+#: framework/functions/options/general.php:253
+msgid "Video Url"
+msgstr ""
+
+#: framework/functions/options/general.php:258
+msgid "Input video Url here."
+msgstr ""
+
+#: framework/functions/options/general.php:261
+msgid "Video startAt (number)"
+msgstr ""
+
+#: framework/functions/options/general.php:266
+msgid "Set the seconds the video should start at."
+msgstr ""
+
+#: framework/functions/options/general.php:269
+msgid "Video stopAt (number)"
+msgstr ""
+
+#: framework/functions/options/general.php:274
+msgid "Set the seconds the video should stop at. If 0 is ignored."
+msgstr ""
+
+#: framework/functions/options/general.php:285
+msgid "Background"
+msgstr ""
+
+#: framework/functions/options/general.php:289
+msgid "Upload your logo image style 1."
+msgstr ""
+
+#: framework/functions/options/general.php:295
+msgid "404"
+msgstr ""
+
+#: framework/functions/options/general.php:301
+msgid "Oops! This Page Can Not Be Found!"
+msgstr ""
+
+#: framework/functions/options/general.php:314
+#: framework/functions/options/general.php:317
+msgid "Google API Key"
+msgstr ""
+
+#: framework/functions/options/general.php:321
+#, php-format
+msgid ""
+"Input your Google API key.<br/> <a href=\"%s\" target=\"_blank\">How To Get?"
+"</a>"
+msgstr ""
+
+#: framework/functions/options/general.php:326
+msgid "Twitter API Key"
+msgstr ""
+
+#: framework/functions/options/general.php:329
+msgid "Consumer key"
+msgstr ""
+
+#: framework/functions/options/general.php:333
+msgid "Input twitter_keys of your twitter."
+msgstr ""
+
+#: framework/functions/options/general.php:336
+msgid "Consumer secret"
+msgstr ""
+
+#: framework/functions/options/general.php:340
+msgid "Input consumer_secret of your twitter."
+msgstr ""
+
+#: framework/functions/options/general.php:343
+msgid "Access token"
+msgstr ""
+
+#: framework/functions/options/general.php:347
+msgid "Input access_token of your twitter."
+msgstr ""
+
+#: framework/functions/options/general.php:350
+msgid "Access token secret"
+msgstr ""
+
+#: framework/functions/options/general.php:354
+msgid "Input access_token_secret of your twitter."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:7
+msgctxt "Theme Options Tab"
+msgid "Header &amp; Footer Settings"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:15
+#: framework/functions/options/styling.php:14
+msgctxt "Theme Options Subtab"
+msgid "Header"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:16
+#: framework/functions/options/woocommerce.php:14
+msgctxt "Theme Options Subtab"
+msgid "Page Title"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:17
+msgctxt "Theme Options Subtab"
+msgid "Socials Media"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:18
+msgctxt "Theme Options Subtab"
+msgid "Mega Menu"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:19
+#: framework/functions/options/styling.php:15
+msgctxt "Theme Options Subtab"
+msgid "Footer"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:29
+msgid "Header style"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:32
+msgid "Choose a header style"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:51
+msgid "Header fixed"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:55
+msgid ""
+"If ON, the header will be always displayed, will hide when scroll down and "
+"display when scroll up."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:58
+msgid "Header fixed on mobile"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:62
+msgid ""
+"If ON, the header will be always displayed on mobile, will hide when scroll "
+"down and display when scroll up."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:65
+msgid "Header background"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:78
+msgid ""
+"If ON, the store notice will be always displayed on top header.<span>Only "
+"apply for header Style V4, V5.</span>"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:81
+msgid "Store notice"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:85
+#, php-format
+msgid "Wedding Week Sale Starts Now %s Off! <a href=\"%s\">Shop Now</a>"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:86
+msgid "Change store notice here."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:90
+msgid "Header Top Settings"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:97
+msgid "If ON, the cart icon will be always displayed."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:104
+msgid "If ON, the search icon will be always displayed."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:107
+msgid "Search post type"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:111
+msgid "Please check post type you want to search."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:116
+msgid "Header Phone"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:119
+msgid "Header phone config."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:126
+#: framework/functions/options/header-footer.php:148
+#: framework/functions/options/header-footer.php:440
+#: framework/functions/options/header-footer.php:462
+msgid "Show or hide the phone info."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:129
+#: framework/functions/options/header-footer.php:443
+msgid "Content Phone (Icon &amp; Text)"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:133
+#: framework/functions/options/header-footer.php:155
+#: framework/functions/options/header-footer.php:177
+#: framework/functions/options/header-footer.php:447
+#: framework/functions/options/header-footer.php:469
+#: framework/functions/options/header-footer.php:491
+#, php-format
+msgid ""
+"See more icon <a href=\"%s\" target=\"_blank\">here</a> or <a href=\"%s\" "
+"target=\"_blank\">here</a>"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:141
+msgid "Header email config."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:151
+#: framework/functions/options/header-footer.php:465
+msgid "Content Email (Icon &amp; Text)"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:160
+msgid "Header Address"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:163
+msgid "Header address config."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:170
+#: framework/functions/options/header-footer.php:484
+msgid "Show or hide the address info."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:173
+#: framework/functions/options/header-footer.php:487
+msgid "Content Address (Icon &amp; Text)"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:194
+#: framework/functions/options/woocommerce.php:103
+msgid "If ON, page title will display in page."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:200
+#: framework/functions/options/woocommerce.php:109
+msgid "Choose style for the page title"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:220
+#: framework/functions/options/woocommerce.php:122
+msgid "If ON, breadcrumb will display in page title section."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:232
+#: framework/functions/options/woocommerce.php:134
+msgid ""
+"With this option page title will be shown above or below header section."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:244
+#: framework/functions/options/woocommerce.php:146
+msgid ""
+"Note: The height of revolution slider is configured from Revolution Slider "
+"Settings, do not use Feature Height below."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:278
+#: framework/functions/options/woocommerce.php:180
+msgid "Choose an image background for page title."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:308
+msgid "Add social icons"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:312
+msgid "Add"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:316
+msgid "Select Icon (*)"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:324
+msgid "Social URL (*)"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:330
+msgid "Social Title"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:361
+msgid "Footer style"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:364
+msgid "Choose a footer style"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:411
+msgid "Back to top"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:415
+msgid "If ON, the button will be always displayed."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:418
+msgid "Copyright text"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:422
+msgid ""
+"Enter your Copyright Text (simple HTML allowed), can use shortcode "
+"[cata_year] to display current year."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:427
+msgid "Footer Shortcode Settings"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:430
+msgid "Footer Phone"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:433
+msgid "Footer phone config, can use shortcode [cata_footer_phone] to display."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:452
+msgid "Footer Email"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:455
+msgid "Footer email config, can use shortcode [cata_footer_email] to display."
+msgstr ""
+
+#: framework/functions/options/header-footer.php:474
+msgid "Footer Address"
+msgstr ""
+
+#: framework/functions/options/header-footer.php:477
+msgid ""
+"Footer address config, can use shortcode [cata_footer_address] to display."
+msgstr ""
+
+#: framework/functions/options/import-export.php:5
+msgctxt "Theme Options Tab"
+msgid "Import &amp; Export Settings"
+msgstr ""
+
+#: framework/functions/options/import-export.php:13
+msgctxt "Theme Options Subtab"
+msgid "Import"
+msgstr ""
+
+#: framework/functions/options/import-export.php:14
+msgctxt "Theme Options Subtab"
+msgid "Export"
+msgstr ""
+
+#: framework/functions/options/import-export.php:24
+msgid "Import"
+msgstr ""
+
+#: framework/functions/options/import-export.php:37
+msgid "Export"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:5
+msgctxt "Theme Options Tab"
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:13
+msgctxt "Theme Options Subtab"
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:14
+msgctxt "Theme Options Subtab"
+msgid "Portfolio Single"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:24
+msgid "Portfolio layout"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:27
+msgid ""
+"Set the default sidebar position for Portfolio page. This setting will be "
+"overwritten default sidebar."
+msgstr ""
+
+#: framework/functions/options/portfolio.php:40
+msgid "Portfolio style"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:43
+msgid "Select your portfolio style."
+msgstr ""
+
+#: framework/functions/options/portfolio.php:51
+msgid "Portfolio columns"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:54
+msgid "Select your preferred layout columns."
+msgstr ""
+
+#: framework/functions/options/portfolio.php:59
+msgid "Portfolio hover style"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:62
+msgid "Select your portfolio hover."
+msgstr ""
+
+#: framework/functions/options/portfolio.php:67
+msgid "Image source"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:70
+msgid "Image source to display."
+msgstr ""
+
+#: framework/functions/options/portfolio.php:78
+msgid "Portfolio spacing"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:81
+msgid "Select the spacing between each items."
+msgstr ""
+
+#: framework/functions/options/portfolio.php:89
+msgid "Spacing size"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:92
+msgid "Choose a valuefor spacing size."
+msgstr ""
+
+#: framework/functions/options/portfolio.php:102
+msgid "Posts per page"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:106
+msgid "Number of portfolio posts per page. <br />(Input -1 to show all)"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:117
+msgid "Portfolio single layout"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:120
+msgid ""
+"Sidebar will be applied to single Portfolio posts. This setting will be "
+"overwritten default sidebar."
+msgstr ""
+
+#: framework/functions/options/portfolio.php:156
+msgid "Display related portfolio"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:160
+msgid "If ON, the related portfolio will be displayed on post detail page."
+msgstr ""
+
+#: framework/functions/options/portfolio.php:163
+msgid "Enable comment"
+msgstr ""
+
+#: framework/functions/options/portfolio.php:167
+msgid "If ON, the comment will be displayed on portfolio detail page."
+msgstr ""
+
+#: framework/functions/options/sidebar.php:5
+msgctxt "Theme Options Tab"
+msgid "Layout Settings"
+msgstr ""
+
+#: framework/functions/options/sidebar.php:14
+msgctxt "Theme Options Subtab"
+msgid "Custom Sidebars"
+msgstr ""
+
+#: framework/functions/options/sidebar.php:24
+msgid "Default layout"
+msgstr ""
+
+#: framework/functions/options/sidebar.php:27
+msgid "Set default layout for all pages."
+msgstr ""
+
+#: framework/functions/options/sidebar.php:32
+#: framework/functions/options/sidebar.php:53
+msgid "Default sidebar"
+msgstr ""
+
+#: framework/functions/options/sidebar.php:41
+msgid "Layout for Other Pages Settings"
+msgstr ""
+
+#: framework/functions/options/sidebar.php:45
+msgid "Other pages layout"
+msgstr ""
+
+#: framework/functions/options/sidebar.php:48
+msgid "Set default layout for Archive, Search and 404 page."
+msgstr ""
+
+#: framework/functions/options/sidebar.php:57
+msgid "Select a sidebar for Archive, Search and 404 page."
+msgstr ""
+
+#: framework/functions/options/sidebar.php:69
+msgid "Custom sidebars"
+msgstr ""
+
+#: framework/functions/options/sidebar.php:73
+msgid "Sidebars can be used on pages, blog and portfolio"
+msgstr ""
+
+#: framework/functions/options/sidebar.php:74
+msgid "Add sidebar"
+msgstr ""
+
+#: framework/functions/options/sidebar.php:77
+msgid "Sidebar name (*)"
+msgstr ""
+
+#: framework/functions/options/styling.php:5
+msgctxt "Theme Options Tab"
+msgid "Styling Settings"
+msgstr ""
+
+#: framework/functions/options/styling.php:13
+msgctxt "Theme Options Subtab"
+msgid "Content"
+msgstr ""
+
+#: framework/functions/options/styling.php:25
+#: framework/functions/options/styling.php:147
+#: framework/functions/options/styling.php:187
+#: framework/functions/options/styling.php:267
+#: framework/functions/options/styling.php:307
+msgid "Background color"
+msgstr ""
+
+#: framework/functions/options/styling.php:29
+msgid "Content background color."
+msgstr ""
+
+#: framework/functions/options/styling.php:32
+msgid "Text color"
+msgstr ""
+
+#: framework/functions/options/styling.php:36
+msgid "Content text color."
+msgstr ""
+
+#: framework/functions/options/styling.php:39
+msgid "Link style"
+msgstr ""
+
+#: framework/functions/options/styling.php:42
+msgid "Select your custom content link style."
+msgstr ""
+
+#: framework/functions/options/styling.php:45
+#: framework/functions/options/styling.php:161
+#: framework/functions/options/styling.php:201
+#: framework/functions/options/styling.php:241
+#: framework/functions/options/styling.php:281
+#: framework/functions/options/styling.php:321
+#: framework/functions/options/styling.php:361
+#: framework/functions/options/styling.php:418
+msgid "Regular"
+msgstr ""
+
+#: framework/functions/options/styling.php:51
+#: framework/functions/options/styling.php:167
+#: framework/functions/options/styling.php:207
+#: framework/functions/options/styling.php:247
+#: framework/functions/options/styling.php:287
+#: framework/functions/options/styling.php:327
+#: framework/functions/options/styling.php:367
+#: framework/functions/options/styling.php:424
+msgid "Hover"
+msgstr ""
+
+#: framework/functions/options/styling.php:60
+msgid "Main Color Settings"
+msgstr ""
+
+#: framework/functions/options/styling.php:63
+msgid "Main color"
+msgstr ""
+
+#: framework/functions/options/styling.php:67
+msgid "Change this color to alter the accent color globally for your site."
+msgstr ""
+
+#: framework/functions/options/styling.php:70
+msgid "Main Color Lighter"
+msgstr ""
+
+#: framework/functions/options/styling.php:74
+msgid ""
+"This color will use in some sections/elements, will be used along with Main "
+"Color."
+msgstr ""
+
+#: framework/functions/options/styling.php:77
+msgid "Extra Color #1"
+msgstr ""
+
+#: framework/functions/options/styling.php:81
+#: framework/functions/options/styling.php:88
+#: framework/functions/options/styling.php:95
+msgid ""
+"Applicable theme elements will have the option to choose this as a color."
+msgstr ""
+
+#: framework/functions/options/styling.php:84
+msgid "Extra Color #2"
+msgstr ""
+
+#: framework/functions/options/styling.php:91
+msgid "Extra Color #3"
+msgstr ""
+
+#: framework/functions/options/styling.php:105
+msgid "Header top background color"
+msgstr ""
+
+#: framework/functions/options/styling.php:109
+msgid "Select a bacground color for header top, depend on header style."
+msgstr ""
+
+#: framework/functions/options/styling.php:112
+msgid "Header Top Color"
+msgstr ""
+
+#: framework/functions/options/styling.php:115
+msgid "Select a color for header top, depend on header style."
+msgstr ""
+
+#: framework/functions/options/styling.php:118
+msgid "For Icon"
+msgstr ""
+
+#: framework/functions/options/styling.php:124
+msgid "For Text"
+msgstr ""
+
+#: framework/functions/options/styling.php:132
+msgid "Menu color style"
+msgstr ""
+
+#: framework/functions/options/styling.php:135
+msgid "Select a color style for main menu."
+msgstr ""
+
+#: framework/functions/options/styling.php:144
+msgid "Menu \"LIGHT\" Style Settings"
+msgstr ""
+
+#: framework/functions/options/styling.php:151
+#: framework/functions/options/styling.php:271
+msgid "Select the background color (include header bottom)."
+msgstr ""
+
+#: framework/functions/options/styling.php:154
+#: framework/functions/options/styling.php:234
+#: framework/functions/options/styling.php:274
+#: framework/functions/options/styling.php:354
+msgid "Menu link color"
+msgstr ""
+
+#: framework/functions/options/styling.php:158
+#: framework/functions/options/styling.php:238
+#: framework/functions/options/styling.php:278
+#: framework/functions/options/styling.php:358
+#: framework/functions/options/styling.php:415
+msgid "Select your custom link color."
+msgstr ""
+
+#: framework/functions/options/styling.php:175
+#: framework/functions/options/styling.php:255
+#: framework/functions/options/styling.php:295
+#: framework/functions/options/styling.php:375
+msgid "Border color"
+msgstr ""
+
+#: framework/functions/options/styling.php:179
+#: framework/functions/options/styling.php:259
+#: framework/functions/options/styling.php:299
+#: framework/functions/options/styling.php:379
+msgid "Select a color, depend on header style."
+msgstr ""
+
+#: framework/functions/options/styling.php:184
+#: framework/functions/options/styling.php:304
+msgid "Sub Menu Settings"
+msgstr ""
+
+#: framework/functions/options/styling.php:191
+#: framework/functions/options/styling.php:311
+msgid "Select the background color."
+msgstr ""
+
+#: framework/functions/options/styling.php:194
+#: framework/functions/options/styling.php:314
+msgid "Submenus link color"
+msgstr ""
+
+#: framework/functions/options/styling.php:198
+#: framework/functions/options/styling.php:318
+msgid "Select your custom submenu link color."
+msgstr ""
+
+#: framework/functions/options/styling.php:215
+#: framework/functions/options/styling.php:335
+msgid "Submenus border color"
+msgstr ""
+
+#: framework/functions/options/styling.php:219
+#: framework/functions/options/styling.php:339
+msgid "Select your custom submenu border color."
+msgstr ""
+
+#: framework/functions/options/styling.php:224
+#: framework/functions/options/styling.php:344
+msgid "Sticky Header Settings"
+msgstr ""
+
+#: framework/functions/options/styling.php:227
+#: framework/functions/options/styling.php:347
+msgid "Sticky background color"
+msgstr ""
+
+#: framework/functions/options/styling.php:231
+#: framework/functions/options/styling.php:351
+msgid "Select the background color for sticky menu."
+msgstr ""
+
+#: framework/functions/options/styling.php:264
+msgid "Menu \"DARK\" Style Settings"
+msgstr ""
+
+#: framework/functions/options/styling.php:390
+msgid "Footer heading color"
+msgstr ""
+
+#: framework/functions/options/styling.php:394
+msgid "Select your custom footer heading color."
+msgstr ""
+
+#: framework/functions/options/styling.php:397
+msgid "Footer text color"
+msgstr ""
+
+#: framework/functions/options/styling.php:401
+msgid "Select your custom text color for footer."
+msgstr ""
+
+#: framework/functions/options/styling.php:404
+msgid "Footer border color"
+msgstr ""
+
+#: framework/functions/options/styling.php:408
+msgid "Select your custom border color for footer."
+msgstr ""
+
+#: framework/functions/options/styling.php:411
+msgid "Footer link color"
+msgstr ""
+
+#: framework/functions/options/typography.php:5
+msgctxt "Theme Options Tab"
+msgid "Typography Settings"
+msgstr ""
+
+#: framework/functions/options/typography.php:23
+msgid "Body Font"
+msgstr ""
+
+#: framework/functions/options/typography.php:27
+msgid "Specify the Body font properties."
+msgstr ""
+
+#: framework/functions/options/typography.php:30
+#: framework/functions/options/typography.php:81
+#: framework/functions/options/typography.php:132
+#: framework/functions/options/typography.php:183
+#: framework/functions/options/typography.php:234
+msgid "Font family"
+msgstr ""
+
+#: framework/functions/options/typography.php:37
+#: framework/functions/options/typography.php:88
+#: framework/functions/options/typography.php:139
+#: framework/functions/options/typography.php:190
+#: framework/functions/options/typography.php:241
+msgid "Font Weight & Style"
+msgstr ""
+
+#: framework/functions/options/typography.php:44
+#: framework/functions/options/typography.php:95
+#: framework/functions/options/typography.php:146
+#: framework/functions/options/typography.php:197
+#: framework/functions/options/typography.php:248
+msgid "Text Transform"
+msgstr ""
+
+#: framework/functions/options/typography.php:51
+#: framework/functions/options/typography.php:102
+#: framework/functions/options/typography.php:153
+#: framework/functions/options/typography.php:204
+#: framework/functions/options/typography.php:255
+msgid "Font size"
+msgstr ""
+
+#: framework/functions/options/typography.php:58
+#: framework/functions/options/typography.php:160
+#: framework/functions/options/typography.php:211
+#: framework/functions/options/typography.php:262
+msgid "Line height"
+msgstr ""
+
+#: framework/functions/options/typography.php:65
+#: framework/functions/options/typography.php:116
+#: framework/functions/options/typography.php:167
+#: framework/functions/options/typography.php:218
+#: framework/functions/options/typography.php:269
+msgid "Letter Spacing"
+msgstr ""
+
+#: framework/functions/options/typography.php:74
+msgid "Navigation Font"
+msgstr ""
+
+#: framework/functions/options/typography.php:78
+msgid "This font will be used for all navigation."
+msgstr ""
+
+#: framework/functions/options/typography.php:125
+msgid "Navigation Dropdown Font"
+msgstr ""
+
+#: framework/functions/options/typography.php:129
+msgid "This font will be used for dropdown navigation."
+msgstr ""
+
+#: framework/functions/options/typography.php:176
+msgid "Page Heading Font"
+msgstr ""
+
+#: framework/functions/options/typography.php:180
+msgid "This font will be used for Page Heading title."
+msgstr ""
+
+#: framework/functions/options/typography.php:227
+msgid "Page Heading Subtitle Font"
+msgstr ""
+
+#: framework/functions/options/typography.php:231
+msgid ""
+"This font will be used for Page Heading Subtitle, also use this font for H1 -"
+"> H6."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:5
+msgctxt "Theme Options Tab"
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:15
+msgctxt "Theme Options Subtab"
+msgid "Shop & Product Category"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:16
+msgctxt "Theme Options Subtab"
+msgid "Product Single"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:26
+msgid "Enable catalog mode"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:30
+msgid "If ON, hide all \"Add To Cart\" button on your site."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:33
+msgid "Enable image hover effect"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:37
+msgid "If ON, show Back Product Image on hover"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:40
+msgid "Enable lazy load"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:44
+msgid "If ON, enable lazy load for products"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:47
+msgid "Placeholder lazy load"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:52
+msgid "Choose an image for placeholder for lazy load."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:58
+msgid "Product Label"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:61
+msgid "Product Feature Label Text"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:67
+msgid "Product Out Of Stock Label Text"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:73
+msgid "Product Sale Label Text"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:79
+msgid "Show Sale Label As"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:83
+#: framework/functions/options/woocommerce.php:207
+msgid "Select how many columns you want."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:203
+msgid "Number Columns"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:211
+msgid "Number of products per page"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:215
+msgid "Set the number of products per page"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:218
+#: framework/functions/options/woocommerce.php:360
+msgid "Sidebar layout"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:221
+msgid ""
+"Set the default sidebar position ( only for Product category page). This "
+"setting will be overwritten default layout."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:230
+msgid "Select a sidebar to show (only for Product category page)."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:255
+msgid "Enable product sku"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:259
+msgid "If ON, the product sku will be displayed."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:262
+msgid "Enable product catagories"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:266
+msgid "If ON, the product categories will be displayed."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:280
+msgid "If ON, the button add to cart will be displayed."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:283
+msgid "Enable Grid List"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:287
+msgid "If ON, the icon Grid & List will be displayed."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:290
+msgid "Grid list button"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:293
+#: framework/functions/options/woocommerce.php:314
+msgid ""
+"Choose status (show or hide) and number of words in description on Grid mode."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:296
+msgid "Enable grid list button"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:302
+msgid "Default view grid list"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:311
+msgid "Product Description on Grid Mode"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:323
+#: framework/functions/options/woocommerce.php:344
+msgid "Number of Words"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:332
+msgid "Product Description on List Mode"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:335
+msgid ""
+"Choose status (show or hide) and number of words in description on List mode."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:363
+msgid ""
+"Set the default sidebar position for Product detail page. This setting will "
+"be overwritten default sidebar."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:463
+msgid "Show sections sharebox link"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:467
+msgid ""
+"The theme allows you to display share links to various social media at the "
+"bottom of your product detail. Check which links you want to display:"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:484
+msgid "Enable Product Tabs"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:488
+msgid "If ON, the product tabs will be displayed on detail page."
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:491
+msgid "Enable Product Custom Tabs"
+msgstr ""
+
+#: framework/functions/options/woocommerce.php:495
+msgid "If ON, the product custom tabs will be displayed on detail page."
+msgstr ""
+
+#: framework/functions/theme-hooks.php:85
+#: framework/includes/class-catanis-breadcrumbs.php:267
+#: framework/includes/class-catanis-breadcrumbs.php:269
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: framework/functions/theme-hooks.php:422
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/functions/theme-hooks.php:425
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/functions/theme-hooks.php:428
+msgid "Edit"
+msgstr ""
+
+#: framework/functions/theme-hooks.php:432
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Author of the plugin/theme
+#: framework/functions/theme-hooks.php:528
+msgid "Catanis Themes"
+msgstr ""
+
+#: framework/functions/woo-hooks.php:145
+msgid "Categories: "
+msgstr ""
+
+#: framework/functions/woo-hooks.php:409
+msgid "In Stock"
+msgstr ""
+
+#: framework/functions/woo-hooks.php:491
+msgid "Continue Shopping"
+msgstr ""
+
+#: framework/includes/__class-catanis-filter-by-color.php:70
+#: framework/includes/__class-catanis-filter-by-color.php:111
+msgid "Color"
+msgstr ""
+
+#: framework/includes/__class-catanis-filter-by-color.php:76
+#: framework/includes/__class-catanis-filter-by-color.php:117
+msgid "Thumbnail Image (Best is 40x40)"
+msgstr ""
+
+#: framework/includes/class-catanis-breadcrumbs.php:205
+#: framework/includes/class-catanis-breadcrumbs.php:222
+#: framework/includes/class-catanis-breadcrumbs.php:233
+msgid "Y"
+msgstr ""
+
+#: framework/includes/class-catanis-breadcrumbs.php:206
+#: framework/includes/class-catanis-breadcrumbs.php:223
+msgid "F"
+msgstr ""
+
+#: framework/includes/class-catanis-breadcrumbs.php:207
+msgid "j"
+msgstr ""
+
+#: framework/includes/class-catanis-breadcrumbs.php:246
+msgid "Archives"
+msgstr ""
+
+#: framework/includes/class-catanis-breadcrumbs.php:253
+#: framework/includes/class-catanis-breadcrumbs.php:255
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: framework/includes/class-catanis-breadcrumbs.php:260
+msgid "404 Not Found"
+msgstr ""
+
+#: framework/includes/class-catanis-custom-fields-category.php:62
+#: framework/includes/class-catanis-custom-fields-category.php:116
+#: framework/includes/class-catanis-custom-woo-term.php:66
+#: framework/includes/class-catanis-custom-woo-term.php:120
+msgid "Category Layout"
+msgstr ""
+
+#: framework/includes/class-catanis-custom-fields-category.php:71
+#: framework/includes/class-catanis-custom-fields-category.php:125
+#: framework/includes/class-catanis-custom-woo-term.php:75
+#: framework/includes/class-catanis-custom-woo-term.php:129
+msgid "Category Sidebar"
+msgstr ""
+
+#: framework/includes/class-catanis-custom-fields-category.php:78
+#: framework/includes/class-catanis-custom-fields-category.php:132
+#: framework/includes/class-catanis-custom-woo-term.php:82
+#: framework/includes/class-catanis-custom-woo-term.php:136
+msgid "Yes"
+msgstr ""
+
+#: framework/includes/class-catanis-custom-fields-category.php:78
+#: framework/includes/class-catanis-custom-fields-category.php:132
+#: framework/includes/class-catanis-custom-woo-term.php:82
+#: framework/includes/class-catanis-custom-woo-term.php:136
+msgid "No"
+msgstr ""
+
+#: framework/includes/class-catanis-custom-fields-category.php:80
+#: framework/includes/class-catanis-custom-fields-category.php:134
+#: framework/includes/class-catanis-custom-woo-term.php:84
+#: framework/includes/class-catanis-custom-woo-term.php:138
+msgid "Header Integration (will be overlap into page title)"
+msgstr ""
+
+#: framework/includes/class-catanis-custom-fields-category.php:86
+#: framework/includes/class-catanis-custom-fields-category.php:140
+#: framework/includes/class-catanis-custom-woo-term.php:90
+#: framework/includes/class-catanis-custom-woo-term.php:144
+msgid "Page Title Background"
+msgstr ""
+
+#: framework/includes/class-catanis-custom-fields-category.php:173
+#: framework/includes/class-catanis-custom-woo-term.php:177
+msgid "No sidebar (Full width)"
+msgstr ""
+
+#: framework/includes/class-catanis-custom-fields-category.php:174
+#: framework/includes/class-catanis-custom-woo-term.php:178
+msgid "Left sidebar"
+msgstr ""
+
+#: framework/includes/class-catanis-custom-fields-category.php:175
+#: framework/includes/class-catanis-custom-woo-term.php:179
+msgid "Right sidebar"
+msgstr ""
+
+#: framework/includes/class-catanis-gridlist.php:33
+msgid "Grid view"
+msgstr ""
+
+#: framework/includes/class-catanis-gridlist.php:34
+msgid "List view"
+msgstr ""
+
+#: framework/includes/class-catanis-love.php:78
+msgid "Love this"
+msgstr ""
+
+#: framework/includes/class-catanis-love.php:79
+#: framework/includes/class-catanis-love.php:83
+msgid "You already love this!"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:335
+#: framework/setup.php:243
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:336
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/includes/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/includes/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:341
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/includes/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/includes/class-tgm-plugin-activation.php:351
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/includes/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/includes/class-tgm-plugin-activation.php:370
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/includes/class-tgm-plugin-activation.php:382
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/includes/class-tgm-plugin-activation.php:389
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/class-tgm-plugin-activation.php:400
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/class-tgm-plugin-activation.php:406
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/class-tgm-plugin-activation.php:412
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/class-tgm-plugin-activation.php:417
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:418
+#: framework/includes/class-tgm-plugin-activation.php:946
+#: framework/includes/class-tgm-plugin-activation.php:2729
+#: framework/includes/class-tgm-plugin-activation.php:3784
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:419
+#: framework/includes/class-tgm-plugin-activation.php:3358
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:420
+#: framework/includes/class-tgm-plugin-activation.php:3151
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: framework/includes/class-tgm-plugin-activation.php:422
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/includes/class-tgm-plugin-activation.php:424
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: framework/includes/class-tgm-plugin-activation.php:426
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:427
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:428
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:429
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:632
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:633
+msgid "Update Required"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:1053
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:1053
+#: framework/includes/class-tgm-plugin-activation.php:1056
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:1056
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:1275
+#: framework/includes/class-tgm-plugin-activation.php:3147
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: framework/includes/class-tgm-plugin-activation.php:2177
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2468
+msgid "Required"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2471
+msgid "Recommended"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2487
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2490
+msgid "External Source"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2493
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2510
+msgid "Not Installed"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2514
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2516
+msgid "Active"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2522
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2525
+msgid "Requires Update"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2528
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: framework/includes/class-tgm-plugin-activation.php:2538
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/includes/class-tgm-plugin-activation.php:2584
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/includes/class-tgm-plugin-activation.php:2588
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/includes/class-tgm-plugin-activation.php:2592
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/includes/class-tgm-plugin-activation.php:2596
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2678
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2686
+msgid "Installed version:"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2694
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2706
+msgid "Available version:"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2729
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2743
+msgid "Plugin"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2744
+msgid "Source"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2745
+msgid "Type"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2749
+msgid "Version"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/includes/class-tgm-plugin-activation.php:2800
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/includes/class-tgm-plugin-activation.php:2806
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/includes/class-tgm-plugin-activation.php:2813
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2883
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2916
+msgid "Install"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2922
+msgid "Update"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2925
+msgid "Activate"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2956
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2958
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:2999
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3001
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3107
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3133
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3357
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/includes/class-tgm-plugin-activation.php:3700
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/includes/class-tgm-plugin-activation.php:3703
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/includes/class-tgm-plugin-activation.php:3705
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3709
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#. //$this->upgrader->strings['skin_update_successful'] = esc_html__( '%1$s installed and activated successfully.', 'onelove' ) . ' <a href="#" class="hide-if-no-js" onclick="%2$s"><span>' . esc_html__( 'Show Details', 'onelove' ) . '</span><span class="hidden">' . esc_html__( 'Hide Details', 'onelove' ) . '</span>.</a>';
+#: framework/includes/class-tgm-plugin-activation.php:3712
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3713
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/includes/class-tgm-plugin-activation.php:3715
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3718
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#. //$this->upgrader->strings['skin_update_successful'] = esc_html__( '%1$s installed successfully.', 'onelove' ) . ' <a href="#" class="hide-if-no-js" onclick="%2$s"><span>' . esc_html__( 'Show Details', 'onelove' ) . '</span><span class="hidden">' . esc_html__( 'Hide Details', 'onelove' ) . '</span>.</a>';
+#: framework/includes/class-tgm-plugin-activation.php:3721
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/includes/class-tgm-plugin-activation.php:3722
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/includes/class-tgm-plugin-activation.php:3724
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/metaboxes/class-meta-builder.php:105
+msgid "Please add setting options for this section."
+msgstr ""
+
+#: framework/setting-api/class-options-builder.php:170
+msgid "Are you sure? Resetting will loose all custom values!"
+msgstr ""
+
+#: framework/setup.php:244
+msgid "Required Plugins"
+msgstr ""
+
+#: framework/setup.php:281
+msgid "Catanis Primary Navigation"
+msgstr ""
+
+#: framework/setup.php:394
+msgid "Years"
+msgstr ""
+
+#: framework/setup.php:394
+msgid "Months"
+msgstr ""
+
+#: framework/setup.php:394
+msgid "Weeks"
+msgstr ""
+
+#: framework/setup.php:394
+msgid "Days"
+msgstr ""
+
+#: framework/setup.php:394
+msgid "Hours"
+msgstr ""
+
+#: framework/setup.php:394
+msgid "Mins"
+msgstr ""
+
+#: framework/setup.php:394
+msgid "Secs"
+msgstr ""
+
+#: framework/setup.php:395
+msgid "Year"
+msgstr ""
+
+#: framework/setup.php:395
+msgid "Month"
+msgstr ""
+
+#: framework/setup.php:395
+msgid "Week"
+msgstr ""
+
+#: framework/setup.php:395
+msgid "Day"
+msgstr ""
+
+#: framework/setup.php:395
+msgid "Hour"
+msgstr ""
+
+#: framework/setup.php:395
+msgid "Min"
+msgstr ""
+
+#: framework/setup.php:395
+msgid "Sec"
+msgstr ""
+
+#: framework/setup.php:396
+msgid "Number Of Guests"
+msgstr ""
+
+#: framework/setup.php:396
+msgid "What Will You Be Attending"
+msgstr ""
+
+#: includes/footer/footer-v4.php:27 includes/footer/footer-v4.php:35
+#: includes/footer/footer-v4.php:43 includes/footer/footer-v4.php:51
+msgid "Click here to assign a widget to this area."
+msgstr ""
+
+#: includes/header/header-v1.php:59
+msgid "Follow:"
+msgstr ""
+
+#: includes/post-templates/content-none.php:2
+msgid "Nothing found!"
+msgstr ""
+
+#: includes/post-templates/content-none.php:4
+msgid "Do not support this archive."
+msgstr ""
+
+#: includes/post-templates/content-single.php:29
+msgid "Pages:"
+msgstr ""
+
+#: includes/related_posts.php:83
+msgid "RELATED POSTS"
+msgstr ""
+
+#: includes/related_posts.php:83
+msgid "You May Also Like"
+msgstr ""
+
+#: includes/related_posts.php:123
+msgid "Sorry, no post found!"
+msgstr ""
+
+#: searchform.php:3
+msgid "Start Typing..."
+msgstr ""
+
+#: sidebar-shop.php:16 sidebar.php:16
+#, php-format
+msgid "Click here to assign a widget to \"%s\" area"
+msgstr ""
+
+#: template-coming-soon.php:48
+msgid "Video"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:79
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:85
+#: woocommerce/global/quantity-input.php:34
+#: woocommerce/global/quantity-input.php:36
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:103
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:59
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:114
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:133
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:133
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:68
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/content-product_cat.php:63
+#, php-format
+msgid "%s Product"
+msgid_plural "%s Products"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:32
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:47
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU: "
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:34
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image.php:70
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:36
+#, php-format
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:41
+msgid "Write your comment"
+msgstr ""
+
+#: woocommerce/single-product/related.php:71
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/shippingbox.php:2
+msgid "Free Shipping"
+msgstr ""
+
+#: woocommerce/single-product/shippingbox.php:3
+msgid "Delivery & Return"
+msgstr ""
+
+#: woocommerce/single-product/shippingbox.php:4
+msgid "Member Discount"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:71
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "OneLove"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://onelove.catanisthemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"OneLove is an elegant & clean wedding theme with multi ideas & purposes. "
+"With 22 homepages are designed for a personal wedding, marriage anniversary, "
+"wedding planning agency, wedding planner, wedding shop, wedding blog and any "
+"kind of wedding industries. This multi-purpose WordPress theme is seriously "
+"what you have been looking for!"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://catanisthemes.com/"
+msgstr ""
