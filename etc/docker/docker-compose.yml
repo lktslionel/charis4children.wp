@@ -2,7 +2,7 @@ version: '3.3'
 
 volumes:
   db_data:
-#  wordpress_data:
+  wordpress_data:
 #  wordpress_themes:
 #  wordpress_plugins:
 
@@ -13,14 +13,16 @@ services:
   db:
     image: bitnami/mariadb:latest
     environment:
-      - "MARIADB_ROOT_PASSWORD=$ABW_DB_ROOT_PASSWORD"
+      - "ALLOW_EMPTY_PASSWORD=yes"
+        #- "MARIADB_ROOT_USER=$ABW_DB_ROOT_USER"
+        #- "MARIADB_ROOT_PASSWORD=$ABW_DB_ROOT_PASSWORD"
       - "MARIADB_DATABASE=wordpress"
-      - "MARIADB_USER=wordpress_user"
+      - "MARIADB_USER=abw_db_user"
       - "MARIADB_PASSWORD=$ABW_DB_PASSWORD"
-    ports:
-      - 53306:3306
+    expose:
+      - 3306
     volumes:
-      - db_data:/bitnami/mariadb/data/
+            - db_data:/bitnami/mariadb/data:cached
     networks:
       - net
 
@@ -32,13 +34,14 @@ services:
       dockerfile: etc/docker/Dockerfile
     ports:
       - 80:80
-      -   443:443
+      - 443:443
     environment:
-      - "MARIADB_ROOT_PASSWORD=$ABW_DB_ROOT_PASSWORD"
+            #- "MARIADB_ROOT_USER=$ABW_DB_ROOT_USER"
+            #- "MARIADB_ROOT_PASSWORD=$ABW_DB_ROOT_PASSWORD"
       - "MARIADB_HOST=db"
       - "MARIADB_PORT_NUMBER=3306"
       - "WORDPRESS_DATABASE_NAME=wordpress"
-      - "WORDPRESS_DATABASE_USER=wordpress_user"
+      - "WORDPRESS_DATABASE_USER=abw_db_user"
       - "WORDPRESS_DATABASE_PASSWORD=$ABW_DB_PASSWORD"
       - "WORDPRESS_BLOG_NAME=abw-site"
       - "WORDPRESS_FIRST_NAME="
@@ -46,13 +49,13 @@ services:
       - "WORDPRESS_USERNAME=abw-user"
       - "WORDPRESS_PASSWORD=$ABW_WORDPRESS_PASSWORD"
       - "WORDPRESS_EMAIL=$ABW_GMAIL_EMAIL"
-      - "SMTP_HOST=smtp.gmail.com"
-      - "SMTP_PORT=587"
-      - "SMTP_USER=$ABW_GMAIL_EMAIL"
-      - "SMTP_PASSWORD=$ABW_GMAIL_PASSWORD"
-      - "SMTP_PROTOCOL=tls"
+        #- "SMTP_HOST=smtp.gmail.com"
+        #- "SMTP_PORT=587"
+        #- "SMTP_USER=$ABW_GMAIL_EMAIL"
+        #- "SMTP_PASSWORD=$ABW_GMAIL_PASSWORD"
+        #- "SMTP_PROTOCOL=tls"
     volumes:
-      - ../../src:/bitnami:cached
+      - wordpress_data:/bitnami:cached
       - ../../.tmp/backups:/backups:cached
     networks:
       - net
