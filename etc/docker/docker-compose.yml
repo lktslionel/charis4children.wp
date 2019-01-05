@@ -31,8 +31,8 @@ services:
       context: ../..
       dockerfile: etc/docker/Dockerfile
     ports:
-      - 50080:80
-      - 50443:443
+      - 80:80
+      - 443:443
     environment:
       - "ALLOW_EMPTY_PASSWORD=yes"
       - "MARIADB_HOST=db"
