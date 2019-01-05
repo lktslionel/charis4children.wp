@@ -13,7 +13,7 @@ services:
   db:
     image: bitnami/mariadb:latest
     environment:
-      - "ALLOW_EMPTY_PASSWORD=yes"
+      - "MARIADB_ROOT_PASSWORD=$ABW_DB_ROOT_PASSWORD"
       - "MARIADB_DATABASE=wordpress"
       - "MARIADB_USER=wordpress_user"
       - "MARIADB_PASSWORD=$ABW_DB_PASSWORD"
@@ -32,9 +32,9 @@ services:
       dockerfile: etc/docker/Dockerfile
     ports:
       - 80:80
-      - 443:443
+      -   443:443
     environment:
-      - "ALLOW_EMPTY_PASSWORD=yes"
+      - "MARIADB_ROOT_PASSWORD=$ABW_DB_ROOT_PASSWORD"
       - "MARIADB_HOST=db"
       - "MARIADB_PORT_NUMBER=3306"
       - "WORDPRESS_DATABASE_NAME=wordpress"
@@ -45,7 +45,12 @@ services:
       - "WORDPRESS_LAST_NAME="
       - "WORDPRESS_USERNAME=abw-user"
       - "WORDPRESS_PASSWORD=$ABW_WORDPRESS_PASSWORD"
-      - "WORDPRESS_EMAIL=contact.ab.wedding@gmail.com"
+      - "WORDPRESS_EMAIL=$ABW_GMAIL_EMAIL"
+      - "SMTP_HOST=smtp.gmail.com"
+      - "SMTP_PORT=587"
+      - "SMTP_USER=$ABW_GMAIL_EMAIL"
+      - "SMTP_PASSWORD=$ABW_GMAIL_PASSWORD"
+      - "SMTP_PROTOCOL=tls"
     volumes:
       - ../../src:/bitnami:cached
       - ../../.tmp/backups:/backups:cached
