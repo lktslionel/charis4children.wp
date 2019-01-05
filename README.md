@@ -14,10 +14,19 @@ This project requires :
 
 ### Getting started
 
+For security reason and to prevent sensible data being include into the repo, you must provide the following values by adding the line below to a file at path: `$HOME/.envs/dev`
+
+```shell
+export ABW_DB_PASSWORD=<ENTER_A_VALUE>
+export ABW_WORDPRESS_PASSWORD=<ENTER_ANOTHER_VALUE>'
+```
+
+
 The site is build with wordpress on a dockerized environment. In order to start working on the site, use the following command : 
 
 ```sh
-compose -p abw -f etc/docker/docker-compose.yml up --build -d
+source $HOME/.envs/dev &&\
+  compose -p abw -f etc/docker/docker-compose.yml up --build -d
 ```
 
 ### Wordpress Theme

@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
 
 . /opt/bitnami/base/functions
 
