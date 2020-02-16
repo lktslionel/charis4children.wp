@@ -1,5 +1,5 @@
 
 
 task :watch do |t|
-  sh "docker-compose -p abw -f etc/docker/docker-compose.yml up"
+  sh "docker-compose -p c4c -f etc/docker/docker-compose.yml up"
 end

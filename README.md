@@ -1,6 +1,6 @@
-# ABW
+# C4C
 
-Audrey & Bastian's wedding website
+Charis 4 Children wordpress site
 
 ## Development
 
@@ -17,8 +17,8 @@ This project requires :
 For security reason and to prevent sensible data being include into the repo, you must provide the following values by adding the line below to a file at path: `$HOME/.envs/dev`
 
 ```shell
-export ABW_DB_PASSWORD=<ENTER_A_VALUE>
-export ABW_WORDPRESS_PASSWORD=<ENTER_ANOTHER_VALUE>'
+export C4C_DB_PASSWORD=<ENTER_A_VALUE>
+export C4C_WP_PASSWORD=<ENTER_ANOTHER_VALUE>
 ```
 
 
@@ -26,7 +26,7 @@ The site is build with wordpress on a dockerized environment. In order to start 
 
 ```sh
 source $HOME/.envs/dev &&\
-  compose -p abw -f etc/docker/docker-compose.yml up --build -d
+  compose -p c4c -f etc/docker/docker-compose.yml up --build -d
 ```
 
 ### Wordpress Theme
