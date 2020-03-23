@@ -1,0 +1,658 @@
+
+/*************** core.admin.css ***************/
+.sc_refresh {
+    margin-left: auto;
+    margin-right: 10px;
+}
+/* TGMA
+-----------------------------------------------------------------*/
+.tgmpa_line_template {
+    margin: 0.5em 0 0 0.5em;
+}
+.tgmpa_version {
+    float: left;
+    padding: 0em 0 0.5em 1.5em;
+}
+.tgmpa_column_version {
+    text-align: left;
+    float: left;
+}
+/* Internal Colorpicker "More Colors" button
+-----------------------------------------------------------------*/
+.iColorPicker_moreColors {
+    margin-left:auto;
+    margin-right:2px;
+}
+.reviews_block .reviews_item {
+    padding-left:30px;
+    padding-right:auto;
+}
+.reviews_block .reviews_value {
+    left: 0;
+    right: auto;
+    text-align:left;
+}
+.reviews_block .reviews_criteria {
+    padding: 4px 0 0 10px;
+}
+.reviews_block .reviews_max_level_100 .reviews_criteria {
+    padding-left:auto;
+    padding-right:10px;
+}
+.reviews_block .reviews_stars_wrap {
+    margin-left:auto;
+    margin-right:250px;
+}
+.reviews_block .reviews_max_level_10 .reviews_stars_wrap {
+    margin-left:auto;
+    margin-right:200px;
+}
+
+.reviews_block .reviews_max_level_100 .reviews_stars_wrap {
+    margin-left:auto;
+    margin-right:0;
+}
+.reviews_block .reviews_slider {
+    left: auto;
+    right: 0;
+}
+.reviews_block .reviews_slider:before {
+    margin: -3px 1px 0 0;
+}
+.charity_is_hope_profiler {
+    margin-left:auto;
+    margin-right:160px;
+}
+@media (max-width: 959px) {
+    .charity_is_hope_profiler {
+        margin-left:auto;
+        margin-right:36px;
+    }
+}
+@media (max-width: 781px) {
+    .charity_is_hope_profiler {
+        margin-left:auto;
+        margin-right:0;
+    }
+}
+
+/*************** core.customizer.css ***************/
+.to_demo_wrap .to_demo_pin {
+    left: 6px;
+    right: auto;
+}
+.to_demo_columns3,
+.to_demo_columns2 {
+    margin-left:3%;
+    margin-right:auto;
+}
+.charity_is_hope_options.to_demo_fixed > .charity_is_hope_options_field_info {
+    left:0;
+    right:auto;
+}
+.to_demo_fixed .to_demo_columns2, .to_demo_fixed .to_demo_columns3 {
+    margin-left:0;
+    margin-right:auto;
+}
+/*************** front.customizer.css ***************/
+.custom_options_shadow {
+    left: auto;
+    right: 0;
+}
+.custom_options_shadow:before {
+    margin: -1.5em -1.5em 0 0;
+}
+body.custom_options_opened .custom_options {
+    left: auto;
+    right: 0;
+}
+
+.custom_options {
+    left: auto;
+    right: -260px;
+}
+.custom_options #co_toggle {
+    left: -2.8125em;
+    right: auto;
+}
+.custom_options .co_header .co_reset:before {
+    margin-left: 5px;
+    margin-right: auto;
+}
+.custom_options .co_image_check a:after {
+    margin: -3px -3px 0 0;
+}
+.custom_options .co_switch_box .switcher{
+    left: auto;
+    right: 0;
+}
+.custom_options .co_switch_box.co_switch_horizontal a{
+    float: right;
+}
+.custom_options .co_switch_box.co_switch_vertical a{
+    text-align:right;
+    padding: 0 30px 0 10px;
+}
+.custom_options .iColorPicker.current span {
+    margin: 0 -50px 0 0;
+}
+.custom_options .co_scheme_wrapper span:before,
+.custom_options .iColorPicker.current:before {
+    margin: 0 -3px 0 0;
+}
+.iColorPickerTable .iColorPicker_moreColors {
+    margin-left: auto;
+    margin-right: 0.5em;
+}
+/*************** core.importer.css ***************/
+.trx_importer_section {
+    float:right;
+}
+.trx_exporter_section {
+    float:left;
+    margin: 2em 0 0 2em;
+}
+@media (max-width: 781px) {
+    .trx_importer_section,
+    .trx_exporter_section {
+        margin-left:auto;
+        margin-right:0;
+    }
+}
+#trx_importer_progress.style_1 .import_progress_status {
+    text-align:left;
+}
+/*************** core.options.css ***************/
+.charity_is_hope_options {
+    margin-left:auto;
+    margin-right:0;
+}
+.charity_is_hope_options_logo {
+    float:right;
+    margin-left:12px;
+    margin-right:auto;
+}
+#charity_is_hope_options_logo.charity_is_hope_options_logo h2 {
+    float:right;
+}
+.charity_is_hope_options_logo span {
+    float:right;
+}
+.charity_is_hope_options_button_export,
+.charity_is_hope_options_button_import,
+.charity_is_hope_options_button_save,
+.charity_is_hope_options_button_reset {
+    float:left;
+}
+.charity_is_hope_options_button_save {
+    margin-left:auto;
+    margin-right:12px;
+}
+.charity_is_hope_options_override_title:after  {
+    margin-left:auto;
+    margin-right:0.5em;
+}
+.charity_is_hope_options_title .charity_is_hope_options_override_menu {
+    left:auto;
+    right:181px;
+}
+.charity_is_hope_options_title .charity_is_hope_options_override_menu a.selected:before {
+    left: auto;
+    right: 0.6em;
+}
+/* Theme options header fixed */
+.charity_is_hope_options_header.charity_is_hope_options_header_fixed {
+    left: auto;
+    right: 0;
+    margin: 0 180px 0 0;
+}
+.folded .charity_is_hope_options_header.charity_is_hope_options_header_fixed {
+    margin: 0 56px 0 0;
+}
+.charity_is_hope_options_header.charity_is_hope_options_header_fixed .charity_is_hope_options_button_import span,
+.charity_is_hope_options_header.charity_is_hope_options_header_fixed .charity_is_hope_options_button_export span,
+.charity_is_hope_options_header.charity_is_hope_options_header_fixed .charity_is_hope_options_button_reset span,
+.charity_is_hope_options_header.charity_is_hope_options_header_fixed .charity_is_hope_options_button_save span {
+    float: right;
+}
+.charity_is_hope_options_body .charity_is_hope_options_partition > ul.ui-tabs-nav {
+    float:right;
+}
+.charity_is_hope_options_body .charity_is_hope_options_partition > ul.ui-tabs-nav > li > a {
+    padding-left:auto;
+    padding-right:12px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_partition > ul.ui-tabs-nav > li > a > span {
+    margin-left:12px;
+    margin-right:-4px;
+    border-left:1px solid #16181c;
+    border-right:0;
+    text-align:right;
+}
+form#addtag .charity_is_hope_options_body .charity_is_hope_options_partition > ul.ui-tabs-nav > li {
+    float:right;
+    margin-left:1px;
+    margin-right:auto;
+}
+form#addtag .charity_is_hope_options_body .charity_is_hope_options_partition > ul.ui-tabs-nav > li > a {
+    padding-left:6px;
+    padding-right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_tab > ul.ui-tabs-nav > li {
+    float:right;
+}
+.charity_is_hope_options_body .charity_is_hope_options_tab > ul.ui-tabs-nav > li > a > span {
+    margin:0 0 0 4px;
+    text-align:right;
+}
+.charity_is_hope_options_body .charity_is_hope_options_toggle .charity_is_hope_options_toggle_header .charity_is_hope_options_toggle_header_icon,
+.charity_is_hope_options_body .charity_is_hope_options_accordion .charity_is_hope_options_accordion_header .charity_is_hope_options_accordion_header_icon {
+    margin:0 0 0 4px;
+    text-align:right;
+}
+.charity_is_hope_options_body .charity_is_hope_options_toggle .charity_is_hope_options_toggle_header .charity_is_hope_options_toggle_header_marker,
+.charity_is_hope_options_body .charity_is_hope_options_accordion .charity_is_hope_options_accordion_header .charity_is_hope_options_accordion_header_marker {
+    left:12px;
+    right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_group legend {
+    margin-left:auto;
+    margin-right:20px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_group legend span[class*="iconadmin-"] {
+    margin:0 0 0 2px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field > label {
+    float:right;
+    margin-left:30px;
+    margin-right:auto;
+    text-align:right;
+}
+
+.charity_is_hope_options_body .charity_is_hope_options_field .charity_is_hope_options_desc {
+    margin-left:auto;
+    margin-right:226px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_columns .charity_is_hope_options_desc {
+    margin-left:auto;
+    margin-right:0;
+}
+.charity_is_hope_options_body .charity_is_hope_options_cloneable_item {
+    padding-left:auto;
+    padding-right:40px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_clone_button_del {
+    left:auto;
+    right:0;
+}
+/* info=true */
+.charity_is_hope_options .charity_is_hope_options_field .charity_is_hope_options_field_label_info{
+    margin-left: auto;
+    margin-right: 0.3em;
+}
+.charity_is_hope_options .charity_is_hope_options_field_info label {
+    text-align:right;
+}
+.charity_is_hope_options .charity_is_hope_options_field_info .charity_is_hope_options_desc {
+    margin-left:auto;
+    margin-right:0;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_content .charity_is_hope_options_arrows,
+.charity_is_hope_options_body .charity_is_hope_options_field_content .charity_is_hope_options_field_after,
+.charity_is_hope_options_body .charity_is_hope_options_field_content .charity_is_hope_options_field_before {
+    left: auto;
+    right: 0;
+    border-radius: 0 6px 6px 0;
+    border-left: 1px solid #d0d0d0;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_content .charity_is_hope_options_arrows,
+.charity_is_hope_options_body .charity_is_hope_options_field_content .charity_is_hope_options_field_after {
+    left:1px;
+    right:auto;
+    border-right:1px solid #d0d0d0;
+    border-left:none;
+    border-radius:0 0 3px 3px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_content .charity_is_hope_options_arrows span {
+    left:auto;
+    right:0;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_content.charity_is_hope_options_button_after input {
+    padding-left:104px !important;
+    padding-right:auto !important;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_content .charity_is_hope_options_input_spinner,
+.charity_is_hope_options_body .charity_is_hope_options_field_content.charity_is_hope_options_button_after_small input {
+    padding-left:34px !important;
+    padding-right:auto !important;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_content.charity_is_hope_options_button_before input {
+    padding-left:auto !important;
+    padding-right:104px !important;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_content.charity_is_hope_options_button_before_small input {
+    padding-left:auto !important;
+    padding-right:34px !important;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_tags .charity_is_hope_options_field_content span {
+    padding-left:20px;
+    padding-right:10px;
+    margin:0 0 3px 3px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_tags .charity_is_hope_options_field_content span:before {
+    left:0;
+    right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_radio .charity_is_hope_options_field_content label,
+.charity_is_hope_options_body .charity_is_hope_options_field_checkbox .charity_is_hope_options_field_content label {
+    text-align:right;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_radio .charity_is_hope_options_field_content label {
+    margin-left:20px;
+    margin-right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_radio .charity_is_hope_options_field_content .charity_is_hope_options_input_radio_image,
+.charity_is_hope_options_body .charity_is_hope_options_field_checkbox .charity_is_hope_options_field_content .charity_is_hope_options_input_checkbox_image {
+    margin-left:10px;
+    margin-right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_radio .charity_is_hope_options_field_content label span:before,
+.charity_is_hope_options_body .charity_is_hope_options_field_checkbox .charity_is_hope_options_field_content label span:before {
+    margin:0 1px 0 0;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_switch .charity_is_hope_options_switch.charity_is_hope_options_state_off .charity_is_hope_options_switch_inner {
+    margin-left:auto;
+    margin-right:-33px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_switch.charity_is_hope_options_size_medium .charity_is_hope_options_switch.charity_is_hope_options_state_off .charity_is_hope_options_switch_inner {
+    margin-left:auto;
+    margin-right:-63px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_switch.charity_is_hope_options_size_big .charity_is_hope_options_switch.charity_is_hope_options_state_off .charity_is_hope_options_switch_inner {
+    margin-left:auto;
+    margin-right:-93px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_switch .charity_is_hope_options_switch_inner:before {
+    margin-left:auto;
+    margin-right:-8px;
+    right: 50%
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_switch .charity_is_hope_options_switch_inner span {
+    padding:3px 3px 3px 14px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_switch .charity_is_hope_options_switch_inner span.charity_is_hope_options_switch_val2 {
+    padding:3px 14px 3px 3px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_input_button:before {
+    margin-left:8px;
+    margin-right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_checklist .charity_is_hope_options_listitem + .charity_is_hope_options_listitem {
+    border-left-width:1px;
+    border-right-width:0;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_checklist.charity_is_hope_options_vertical .charity_is_hope_options_listitem {
+    text-align:right;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_checklist.charity_is_hope_options_vertical .charity_is_hope_options_listitem + .charity_is_hope_options_listitem {
+    border-right-width:1px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_range .charity_is_hope_options_input_range .charity_is_hope_options_range_scale {
+    left:24px;
+    right:21px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_range .charity_is_hope_options_input_range .charity_is_hope_options_range_scale_filled {
+    left:auto;
+    right:0;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_range .charity_is_hope_options_input_range .charity_is_hope_options_range_min {
+    left:auto;
+    right:20px;
+    text-align:right;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_range .charity_is_hope_options_input_range .charity_is_hope_options_range_max {
+    left:20px;
+    right:auto;
+    text-align:left;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_range .charity_is_hope_options_input_range .charity_is_hope_options_range_slider {
+    left: auto;
+    right:0;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_range .charity_is_hope_options_input_range .charity_is_hope_options_range_slider_value:after {
+    margin-left: auto;
+    margin-right: -5px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_range .charity_is_hope_options_input_range .charity_is_hope_options_range_slider_value:before {
+    margin-left: auto;
+    margin-right: -6px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_select .charity_is_hope_options_input_menu .charity_is_hope_options_menuitem {
+    text-align:right;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_images .charity_is_hope_options_caption_image:before {
+    margin-left:auto;
+    margin-right:-6px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_images .charity_is_hope_options_menuitem {
+    margin:0 0 1px 1px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_images.charity_is_hope_options_size_small .charity_is_hope_options_caption_image span {
+    margin:6px 6px 6px 12px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_images.charity_is_hope_options_size_small .charity_is_hope_options_caption_image:before {
+    text-align:left;
+    left:3px;
+    right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_images.charity_is_hope_options_size_medium .charity_is_hope_options_caption_image span {
+    margin:8px 8px 8px 16px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_images.charity_is_hope_options_size_medium .charity_is_hope_options_caption_image:before {
+    text-align:left;
+    left:2px;
+    right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_images.charity_is_hope_options_size_large .charity_is_hope_options_caption_image span {
+    margin:10px 10px 10px 18px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_images.charity_is_hope_options_size_large .charity_is_hope_options_caption_image:before {
+    text-align:left;
+    left:3px;
+    right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_icons .charity_is_hope_options_caption_icon:before {
+    text-align:left;
+    left:2px;
+    right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_icons .charity_is_hope_options_caption_icon span {
+    margin:6px 6px 6px 12px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_icons .charity_is_hope_options_menuitem {
+    margin:0 0 1px 1px;
+}
+/* type="socials" */
+.charity_is_hope_options_body .charity_is_hope_options_field_socials.charity_is_hope_options_field_images .charity_is_hope_options_field_content {
+    padding-left:40px;
+    padding-right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_socials.charity_is_hope_options_field_images .charity_is_hope_options_field_content.charity_is_hope_options_cloneable_area {
+    padding-left:0;
+    padding-right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_socials.charity_is_hope_options_field_images .charity_is_hope_options_field_content.charity_is_hope_options_cloneable_area .charity_is_hope_options_cloneable_item {
+    padding-left:40px;
+    padding-right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_socials.charity_is_hope_options_field_images .charity_is_hope_options_caption_image {
+    left:0;
+    right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_color .charity_is_hope_options_input_color_wp {
+    margin:0 0 0 4px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_color .iColorPicker {
+    left:5px;
+    right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_color .iColorPicker_moreColors {
+    margin-left:auto;
+    margin-right:2px;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_label.charity_is_hope_options_field_label_inherit {
+    padding-left:30px;
+    padding-right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_content .charity_is_hope_options_content_inherit div {
+    margin:-10px -30px 0 0;
+}
+.charity_is_hope_options_body .charity_is_hope_options_field_label .charity_is_hope_options_button_inherit {
+    left:0;
+    right:auto;
+}
+.charity_is_hope_options_body .charity_is_hope_options_columns {
+    float:right;
+    margin-left: auto;
+    margin-right: 2%;
+}
+.charity_is_hope_options_body .charity_is_hope_options_columns.first {
+    margin-left: auto;
+    margin-right: 0%;
+}
+.charity_is_hope_options_body .charity_is_hope_options_columns > label {
+    text-align: right;
+}
+@media (max-width: 799px) {
+    .charity_is_hope_options_body .charity_is_hope_options_columns {
+        margin-left: auto;
+        margin-right: 0;
+    }
+}
+@media (max-width: 1439px) {
+    .charity_is_hope_options_body .charity_is_hope_options_partition > ul > li {
+        float:right;
+        margin-left:1px;
+        margin-right:auto;
+    }
+    .charity_is_hope_options_body .charity_is_hope_options_partition > ul > li > a {
+        padding-left:6px;
+        padding-right:auto;
+    }
+    .charity_is_hope_options_body .charity_is_hope_options_field > label {
+        text-align:right;
+    }
+    .charity_is_hope_options_body .charity_is_hope_options_field .charity_is_hope_options_desc {
+        margin-left: auto;
+        margin-right: 0;
+    }
+}
+
+
+
+
+
+
+/*************** core.options-datepicker.css ***************/
+.ui-datepicker .ui-datepicker-prev {
+    left: auto;
+    right: 2px;
+}
+.ui-datepicker .ui-datepicker-next {
+    left: 2px;
+    right: auto;
+}
+.ui-datepicker .ui-datepicker-prev-hover {
+    left: auto;
+    right: 1px;
+}
+.ui-datepicker .ui-datepicker-next-hover {
+    left: 1px;
+    right: auto;
+}
+.ui-datepicker td span,
+.ui-datepicker td a {
+    text-align: left;
+}
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current {
+    float: right;
+}
+.ui-datepicker-multi .ui-datepicker-group {
+    float: right;
+}
+.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header,
+.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header {
+    border-left-width: auto;
+    border-right-width: 0;
+}
+.ui-datepicker-multi .ui-datepicker-buttonpane {
+    clear: right;
+}
+/*************** core..css ***************/
+/*************** qrcode-admin.css ***************/
+.widget_qrcode ul.tabs li {
+    float: right;
+    padding-left:auto;
+    padding-right:10px;
+    margin-left:auto;
+    margin-right:10px;
+    border-left:0;
+    border-right:#999 1px dotted;
+}
+.widget_qrcode ul.tabs li.first {
+    padding-left:auto;
+    padding-right:0;
+    margin-left:auto;
+    margin-right:0;
+    border-left:auto;
+    border-right:none;
+}
+/*************** po_composer.css ***************/
+.po_composer {
+    margin:0 0 0 20px;
+}
+.po_composer_links {
+    margin-left:auto;
+    margin-right:20px;
+}
+
+.po_composer_block {
+    float:right;
+}
+.po_composer_block + .po_composer_block {
+    float:left;
+}
+.po_composer_label {
+    text-align:right;
+}
+.po_composer_editor .left_side {
+    float:right;
+}
+.po_composer_editor .right_side {
+    float:left;
+}
+.po_composer_editor ul li {
+    margin:0 1px 0 0;
+}
+#po_composer_editor_list #po_list .list_msgid {
+    margin-left:2%;
+    margin-right:auto;
+}
+/*************** emailer.css ***************/
+.trx_emailer {
+    margin:0 0 0 20px;
+}
+.trx_emailer_block {
+    float:right;
+}
+.trx_emailer_block + .trx_emailer_block {
+    float:left;
+}
+.trx_emailer_field #emailer_group {
+    margin-left:10px;
+    margin-right:auto;
+}
+.trx_emailer_field label.inline {
+    margin-left:10px;
+    margin-right:auto;
+}

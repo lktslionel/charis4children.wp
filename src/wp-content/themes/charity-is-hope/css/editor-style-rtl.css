@@ -1,0 +1,47 @@
+/**
+ * 2.0 Typography
+ */
+
+dd,
+ ol, ul {
+	padding-left:0;
+	padding-right:1.5em;
+}
+
+/**
+ * 3.0 Elements
+ */
+li > ul,
+li > ol {
+	margin: 0 2em 0 0;
+}
+table,
+.mce-item-table {
+	border-width: 1px 1px 0 0;
+}
+
+table td,
+.mce-item-table td,
+table th,
+.mce-item-table th,
+table caption {
+	border-width: 0 0 1px 1px;
+}
+
+/**
+ * 8.0 RTL
+ */
+
+body.rtl {
+	font-family: Arial, Tahoma, sans-serif;
+}
+
+.rtl li > ul,
+.rtl li > ol {
+	margin: 0 2em 0 0;
+}
+
+.rtl table th,
+.rtl table caption {
+	text-align: right;
+}

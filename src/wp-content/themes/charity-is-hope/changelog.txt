@@ -1,0 +1,73 @@
+Version 2.2.0
+    	Added:
+    		- Compatibility with WP 5.2.1
+    		- Compatibility with PHP7.3
+            - Contact Form 7
+
+        Fixed:
+            - Update plugins to their latest versions
+            - Improve theme styles
+            - Update scripts  libraries
+
+        Changed:
+           - Update demo data
+
+Version 2.1
+    Added:
+        - Theme Options added into Give Forms post type
+        - GDPR Framework plugin
+        - Alert to Demo data installation
+
+    Fixed:
+        - Compatibility with Gutenberg and other PageBuilders
+        - Update plugins to their latest versions
+        - Update documentation
+
+    Changed:
+        - Default contact forms to make them GDPR-compliant
+
+Version 2.0.1
+    Added:
+        - Update plugins to their latest versions
+        - Update documentation
+    Fixed:
+        - Compatibility with PHP 5.6
+
+Version 2.0.0
+    Added:
+        - Compatibility with Give plugin
+        - Automatic update of current year in footer copyright area by using {Y} or {{Y}} symbols
+        - Shortcode for Give plugin [trx_give_list]. This shortcode displays donation forms in a list.
+    Fixed:
+        - Compatibility with WooCommerce 3.3+
+        - Compatibility with WordPress 4.9+
+        - Compatibility with PHP 7
+        - Styles for The Events Calendar plugin
+        - Improve styles for RTL version
+        - Edit icons in WPBakery PageBuilder's Front-end Editor
+        - Add link for next month in The Events Calendar plugin 
+    Changed:
+        - Move Importer to ThemeREX Utilities plugin
+        - Styles for donation-forms. The set of form fields was changed due to using new Give plugin.
+    Removed:
+        - Compatibility with ThemeREX Donations plugin. Please backup your theme before updating it!
+        - "Shop columns" option from Appearance > Theme Options > WooCommerce section 
+
+Version 1.3
+	Add RTL
+	Plugins updated
+	Dummy data import fixed
+
+Version 1.2
+    The theme is now compatible with version WooCommerce 3.0 and higher.
+    Minor CSS fixes
+    Plugins updated
+
+Version 1.1
+    Demo data updated
+    Security fixes
+    Plugins updated
+    Child theme updated
+
+Version 1.0
+	Release (v.3.9.2)
